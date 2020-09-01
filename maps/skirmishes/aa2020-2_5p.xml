@@ -16,7 +16,7 @@
 		<Water>
 			<WaterBody>
 				<Type>ocean</Type>
-				<Color r="0.364706" g="0.709804" b="0.823529"/>
+				<Color r="0.364706" g="0.709804" b="0.819608"/>
 				<Tint r="0.466667" g="0.764706" b="0.858824"/>
 				<Height>19.2</Height>
 				<Waviness>2</Waviness>
@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="612.502" y="139.189" z="1917.05"/>
-		<Rotation angle="-2.95524"/>
+		<Position x="1527.77" y="92.3811" z="448.613"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -47,7 +47,6 @@
   "Name": "aa2020-2 (5)",
   "Nomad": false,
   "PlayerData": [
-    null,
     {
       "Civ": "athen",
       "StartingCamera": {
@@ -55709,6 +55708,27 @@
 			<Position x="112.02053" z="1479.261"/>
 			<Orientation y="3.29752"/>
 			<Actor seed="25061"/>
+		</Entity>
+		<Entity uid="17714">
+			<Template>skirmish/units/special_starting_unit</Template>
+			<Player>5</Player>
+			<Position x="1039.2887" z="385.58228"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18589"/>
+		</Entity>
+		<Entity uid="17715">
+			<Template>skirmish/units/special_starting_unit</Template>
+			<Player>5</Player>
+			<Position x="1310.21583" z="393.99885"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="18589"/>
+		</Entity>
+		<Entity uid="17716">
+			<Template>skirmish/units/special_starting_unit</Template>
+			<Player>5</Player>
+			<Position x="1460.37928" z="541.15027"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="18589"/>
 		</Entity>
 	</Entities>
 	<Paths/>
