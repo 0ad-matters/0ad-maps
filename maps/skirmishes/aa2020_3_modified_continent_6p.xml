@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1262.69" y="192.839" z="1107.04"/>
+		<Position x="917.308" y="91.8357" z="1436.8"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -41,13 +41,13 @@
 {
   "AISeed": 0,
   "CircularMap": true,
-  "Description": "A 3v3 map designed for 2 human players against the AI. All players start on a modified continent surrounded by water, with a lake in the middle. To play with only 2 human players, set the AI for player 3 to \"SandBox\".",
+  "Description": "All players start on a modified continent surrounded by water, with a large lake in the middle. May not be balanced for PVP games.",
   "Keywords": [],
   "LockTeams": false,
   "Name": "aa2020-3-modified-Continent (6)",
   "Nomad": false,
   "PlayerData": [
-    null,
+    "",
     {
       "Civ": "athen",
       "StartingCamera": {

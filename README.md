@@ -14,9 +14,7 @@ players' bases are very close together.
 
 ## aa2020-3_6p.xml
 
-A 3v3 map designed for 2 human players against the AI. All players
-start on a modified continent surrounded by water, with a lake in the
-middle. To play with only 2 human players, set the AI for player 3 to
-"SandBox".
+A 3v3 map; all players start on a modified continent surrounded by
+water, with a large lake in the middle. May not be balanced for PVP games.
 
 
