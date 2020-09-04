@@ -18,4 +18,8 @@ players' bases are very close together.
 A 3v3 map; all players start on a modified continent surrounded by
 water, with a large lake in the middle. May not be balanced for PVP games.
 
+## aa2020-4-modified-African_Plains_5p.xml
+
+A 2v3 map
+
 
