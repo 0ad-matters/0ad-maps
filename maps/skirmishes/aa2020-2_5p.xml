@@ -33,15 +33,15 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="420.126" y="92.3811" z="1277.8"/>
-		<Rotation angle="0"/>
+		<Position x="1078.98" y="175.464" z="830.237"/>
+		<Rotation angle="-2.17925"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
   "AISeed": 0,
   "CircularMap": true,
-  "Description": "A typical map without any water.",
+  "Description": "A great river surrounds a battlefield",
   "Keywords": [],
   "LockTeams": false,
   "Name": "aa2020-2 (5)",
@@ -51242,13 +51242,6 @@
 			<Orientation y="-1.13065"/>
 			<Actor seed="22018"/>
 		</Entity>
-		<Entity uid="16998">
-			<Template>gaia/flora_tree_oak_aut_new</Template>
-			<Player>0</Player>
-			<Position x="275.05811" z="1425.97144"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="33459"/>
-		</Entity>
 		<Entity uid="16999">
 			<Template>gaia/flora_tree_poplar</Template>
 			<Player>0</Player>
@@ -51494,13 +51487,6 @@
 			<Orientation y="2.35622"/>
 			<Actor seed="42307"/>
 		</Entity>
-		<Entity uid="17034">
-			<Template>gaia/flora_tree_oak_aut_new</Template>
-			<Player>0</Player>
-			<Position x="259.1996" z="1410.07422"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="33459"/>
-		</Entity>
 		<Entity uid="17035">
 			<Template>gaia/flora_tree_oak</Template>
 			<Player>0</Player>
@@ -51584,13 +51570,6 @@
 			<Position x="344.32886" z="1413.06995"/>
 			<Orientation y="-1.13065"/>
 			<Actor seed="22018"/>
-		</Entity>
-		<Entity uid="17047">
-			<Template>gaia/flora_tree_oak_aut_new</Template>
-			<Player>0</Player>
-			<Position x="310.9499" z="1463.24488"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="33459"/>
 		</Entity>
 		<Entity uid="17048">
 			<Template>gaia/flora_tree_poplar</Template>
@@ -51836,13 +51815,6 @@
 			<Position x="313.29102" z="1430.35865"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="42307"/>
-		</Entity>
-		<Entity uid="17083">
-			<Template>gaia/flora_tree_oak_aut_new</Template>
-			<Player>0</Player>
-			<Position x="295.09137" z="1447.34766"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="33459"/>
 		</Entity>
 		<Entity uid="17084">
 			<Template>gaia/flora_tree_oak</Template>
