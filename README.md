@@ -44,5 +44,6 @@ A 2v3 map
 
 * AndJam_Mainland
 * AndJam_Ardennes Forest
+* AndJam_African Plains
 
 Teammates are placed closely together
