@@ -31,8 +31,10 @@ water, with a large lake in the middle. May not be balanced for PVP games.
 
 A 2v3 map
 
+## aa2020-4-modified-African_Plains_6p.xml
+
+A 3v3 map
+
 ## aa2020-5-modified-Corinthian Isthmus_5p.xml
 
 A 2v3 map
-
-
