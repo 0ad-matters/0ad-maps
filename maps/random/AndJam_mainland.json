@@ -2,7 +2,7 @@
 	"settings" : {
 		"Name" : "AndJam_Mainland",
 		"Script" : "AndJam_mainland.js",
-		"Description" : "A typical map without any water. Teammates are placed close together.",
+		"Description" : "A typical map without any water. Teammates are placed closely together.",
 		"Preview" : "mainland_temperate.png",
 		"SupportedBiomes": "generic/",
 		"CircularMap" : true
