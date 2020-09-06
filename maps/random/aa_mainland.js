@@ -56,9 +56,13 @@ var clFood = g_Map.createTileClass();
 var clBaseResource = g_Map.createTileClass();
 
 var riverAngle = randomAngle();
+var startAngle = randomAngle();
 
 placePlayerBases({
-	"PlayerPlacement": playerPlacementRiver(riverAngle, fractionToTiles(0.7)),
+	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementCustomAngle(
+		fractionToTiles(0.35),
+		mapCenter,
+		i => startAngle - 1/6 * Math.PI * (1 - (i % (numPlayers/2))) + Math.PI * (i >= numPlayers/2 ? 1: 0 ))],
 	"PlayerTileClass": clPlayer,
 	"BaseResourceClass": clBaseResource,
 	"CityPatch": {
