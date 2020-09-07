@@ -58,10 +58,7 @@ var clBaseResource = g_Map.createTileClass();
 var startAngle = randomAngle();
 
 placePlayerBases({
-	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementCustomAngle(
-		fractionToTiles(0.35),
-		mapCenter,
-		i => startAngle - 1/6 * Math.PI * (1 - (i % (numPlayers/2))) + Math.PI * (i >= numPlayers/2 ? 1: 0 ))],
+	"PlayerPlacement": playerPlacementRiver(startAngle, scaleByMapSize(100, 300)),
 	"PlayerTileClass": clPlayer,
 	"BaseResourceClass": clBaseResource,
 	"CityPatch": {
