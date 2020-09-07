@@ -13,6 +13,11 @@ be balanced enough for PVP games.
 
 ## 0 A.D. Skirmish maps
 
+Copy to:
+
+    Linux: ~/.local/share/0ad/mods/user/maps/skirmishes
+    Windows: C:\Users\{YourUserName\Documents\My Games\0ad\mods\user\maps\skirmishes\
+
 ### aa2020-1_5p.xml
 
 [Screenshot](https://wildfiregames.com/forum/index.php?/topic/28733-map-aa2020-1-2v3/)
@@ -42,8 +47,17 @@ A 2v3 map
 
 ## Random maps
 
+Copy to:
+
+    Linux: ~/.local/share/0ad/mods/user/maps/random
+    Windows: C:\Users\{YourUserName\Documents\My Games\0ad\mods\user\maps\random\
+
 * AndJam_Mainland
 * AndJam_Ardennes Forest
 * AndJam_African Plains
 
 Teammates are placed closely together
+
+* AndJam Mainland (squared)
+
+Teammates placed closely together on a square map
