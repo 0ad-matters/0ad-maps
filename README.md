@@ -44,6 +44,10 @@ A 3v3 map
 
 A 2v3 map
 
+### aa2020-6-Pyrenean Sierra_6.xml
+
+A 2v4 map
+
 
 ## Random maps
 
