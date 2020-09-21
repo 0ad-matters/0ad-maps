@@ -48,6 +48,10 @@ A 2v3 map
 
 A 2v4 map
 
+### aa2020-7-Latium-2v6_6.xml
+
+A 2v4 map
+
 
 ## Random maps
 
