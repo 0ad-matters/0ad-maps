@@ -26,11 +26,15 @@ Copy to:
 
 [Screenshot](https://wildfiregames.com/forum/index.php?/topic/28724-map-aa2020-2-2v3/&do=findComment&comment=403465)
 
-### aa2020-3_6p.xml
+### aa2020_3_modified_continent_6p.xml
 
 [Screenshot](https://wildfiregames.com/forum/index.php?/topic/28740-new-skirmish-map-3v3-modified-continent/)
 A 3v3 map; all players start on a modified continent surrounded by
 water, with a large lake in the middle. May not be balanced for PVP games.
+
+### aa2020_8_Continent-2v4_6p.xml
+
+Like the above map, but 2v4
 
 ### aa2020-4-modified-African_Plains_5p.xml
 
