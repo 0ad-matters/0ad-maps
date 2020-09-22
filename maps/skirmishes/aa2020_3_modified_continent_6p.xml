@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="917.308" y="91.8357" z="1436.8"/>
+		<Position x="858.998" y="91.8357" z="1406.68"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -41,13 +41,12 @@
 {
   "AISeed": 0,
   "CircularMap": true,
-  "Description": "All players start on a modified continent surrounded by water, with a large lake in the middle. May not be balanced for PVP games.",
+  "Description": "A 3v3 map; All players start on a modified continent surrounded by water, with a large lake in the middle. May not be balanced for PVP games.",
   "Keywords": [],
   "LockTeams": false,
-  "Name": "aa2020-3-modified-Continent (6)",
+  "Name": "aa2020-3-modified-Continent 3v3 (6)",
   "Nomad": false,
   "PlayerData": [
-    "",
     {
       "Civ": "athen",
       "StartingCamera": {
