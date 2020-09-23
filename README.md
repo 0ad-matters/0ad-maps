@@ -36,6 +36,10 @@ water, with a large lake in the middle. May not be balanced for PVP games.
 
 Like the above map, but 2v4
 
+### aa2020_9_Continent-3v5_8p.xml
+
+Like the above map, but 3v5
+
 ### aa2020-4-modified-African_Plains_5p.xml
 
 A 2v3 map
