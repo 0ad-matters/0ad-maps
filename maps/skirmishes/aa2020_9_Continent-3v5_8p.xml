@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1389.82" y="137.944" z="553.287"/>
-		<Rotation angle="-0.475446"/>
+		<Position x="616.312" y="92.1148" z="1420.53"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -69,14 +69,14 @@
       "Name": "Player 2",
       "StartingCamera": {
         "Position": {
-          "x": 1008.35,
+          "x": 1085.01,
           "y": 23,
-          "z": 1640.36
+          "z": 1642.22
         },
         "Rotation": {
-          "x": -145,
-          "y": -35.2925,
-          "z": 180
+          "x": 35,
+          "y": 0,
+          "z": 0
         }
       },
       "Team": 0
@@ -84,6 +84,18 @@
     {
       "Civ": "gaul",
       "Name": "Player 3",
+      "StartingCamera": {
+        "Position": {
+          "x": 616.312,
+          "y": 23,
+          "z": 1518.83
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 0
     },
     {
@@ -46302,6 +46314,83 @@
 			<Position x="1348.39283" z="626.38477"/>
 			<Orientation y="4.66901"/>
 			<Actor seed="1842"/>
+		</Entity>
+		<Entity uid="13839">
+			<Template>other/bench</Template>
+			<Player>0</Player>
+			<Position x="689.46821" z="1160.36597"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="993"/>
+		</Entity>
+		<Entity uid="13840">
+			<Template>other/bench</Template>
+			<Player>0</Player>
+			<Position x="685.08356" z="1162.06067"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="33236"/>
+		</Entity>
+		<Entity uid="13841">
+			<Template>other/bench</Template>
+			<Player>0</Player>
+			<Position x="684.2884" z="1158.21827"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="54315"/>
+		</Entity>
+		<Entity uid="13842">
+			<Template>other/bench</Template>
+			<Player>0</Player>
+			<Position x="688.52814" z="1156.39637"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="9141"/>
+		</Entity>
+		<Entity uid="13843">
+			<Template>gaia/flora_tree_tamarix</Template>
+			<Player>0</Player>
+			<Position x="671.34217" z="1154.63892"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="38879"/>
+		</Entity>
+		<Entity uid="13844">
+			<Template>gaia/flora_tree_tamarix</Template>
+			<Player>0</Player>
+			<Position x="691.39496" z="1148.18006"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="45276"/>
+		</Entity>
+		<Entity uid="13845">
+			<Template>gaia/ruins/stone_statues_roman</Template>
+			<Player>0</Player>
+			<Position x="700.61896" z="1174.53248"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="51254"/>
+		</Entity>
+		<Entity uid="13846">
+			<Template>gaia/ruins/stone_statues_roman</Template>
+			<Player>0</Player>
+			<Position x="676.96888" z="1163.04053"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="45479"/>
+		</Entity>
+		<Entity uid="13847">
+			<Template>gaia/ruins/stone_statues_egyptian</Template>
+			<Player>0</Player>
+			<Position x="667.74238" z="1145.55665"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="5812"/>
+		</Entity>
+		<Entity uid="13848">
+			<Template>gaia/ruins/stone_statues_egyptian</Template>
+			<Player>0</Player>
+			<Position x="701.30243" z="1157.25684"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="10327"/>
+		</Entity>
+		<Entity uid="13849">
+			<Template>gaia/flora_tree_tamarix</Template>
+			<Player>0</Player>
+			<Position x="690.94135" z="1167.48206"/>
+			<Orientation y="1.8041"/>
+			<Actor seed="3460"/>
 		</Entity>
 	</Entities>
 	<Paths/>
