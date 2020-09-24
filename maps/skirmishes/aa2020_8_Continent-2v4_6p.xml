@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="897.327" y="91.8357" z="1406.68"/>
+		<Position x="1086.88" y="93.6888" z="1532.85"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -48,6 +48,7 @@
   "Nomad": false,
   "PlayerData": [
     {
+      "Civ": "athen",
       "Name": "Player 1",
       "StartingCamera": {
         "Position": {
@@ -64,22 +65,24 @@
       "Team": 0
     },
     {
+      "Civ": "cart",
       "Name": "Player 2",
       "StartingCamera": {
         "Position": {
-          "x": 870.03,
+          "x": 1086.88,
           "y": 23,
-          "z": 1514.49
+          "z": 1631.14
         },
         "Rotation": {
-          "x": -145,
-          "y": -0.39573,
-          "z": -180
+          "x": 35,
+          "y": 0,
+          "z": 0
         }
       },
       "Team": 0
     },
     {
+      "Civ": "gaul",
       "Name": "Player 3",
       "StartingCamera": {
         "Position": {
@@ -96,6 +99,7 @@
       "Team": 1
     },
     {
+      "Civ": "iber",
       "Name": "Player 4",
       "StartingCamera": {
         "Position": {
@@ -112,6 +116,7 @@
       "Team": 1
     },
     {
+      "Civ": "mace",
       "Name": "Player 5",
       "StartingCamera": {
         "Position": {
@@ -128,6 +133,7 @@
       "Team": 1
     },
     {
+      "Civ": "maur",
       "Name": "Player 6",
       "StartingCamera": {
         "Position": {
@@ -37705,7 +37711,7 @@
 		<Entity uid="11509">
 			<Template>skirmish/structures/default_civil_centre</Template>
 			<Player>2</Player>
-			<Position x="1068.37085" z="1636.33838"/>
+			<Position x="1068.40442" z="1636.36658"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="63382"/>
 		</Entity>
