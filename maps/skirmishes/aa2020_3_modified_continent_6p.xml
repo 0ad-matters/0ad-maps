@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="858.998" y="91.8357" z="1406.68"/>
+		<Position x="616.408" y="92.0862" z="1416.61"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -67,20 +67,32 @@
       "Civ": "cart",
       "StartingCamera": {
         "Position": {
-          "x": 1008.35,
+          "x": 1074.57,
           "y": 23,
-          "z": 1640.36
+          "z": 1630.22
         },
         "Rotation": {
-          "x": -145,
-          "y": -35.2925,
-          "z": 180
+          "x": 35,
+          "y": 0,
+          "z": 0
         }
       },
       "Team": 0
     },
     {
       "Civ": "gaul",
+      "StartingCamera": {
+        "Position": {
+          "x": 616.408,
+          "y": 23,
+          "z": 1514.91
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 0
     },
     {
