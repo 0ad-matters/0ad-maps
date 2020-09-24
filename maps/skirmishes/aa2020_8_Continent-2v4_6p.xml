@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1086.88" y="93.6888" z="1532.85"/>
+		<Position x="981.246" y="256.971" z="1170.84"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -44,9 +44,10 @@
   "Description": "A 2v4 map; All players start on a modified continent surrounded by water, with a large lake in the middle. May not be balanced for PVP games.",
   "Keywords": [],
   "LockTeams": true,
-  "Name": "aa2020-8-modified-Continent (6)",
+  "Name": "aa2020-8-modified-Continent 2v4 (6)",
   "Nomad": false,
   "PlayerData": [
+    "",
     {
       "Civ": "athen",
       "Name": "Player 1",
