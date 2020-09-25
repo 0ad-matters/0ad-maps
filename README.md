@@ -62,6 +62,15 @@ A 2v4 map
 
 ### aa2020-7-Latium-3v4_7.xml
 
+### Deaths_Doorway_2v5_7.xml
+
+A rectangular 2v5 map with an Autumn biome based on Mainland and Latium
+
+### Deaths_Doorway_3v5_8.xml
+
+Like the above, but 3v5
+
+
 
 ## Random maps
 
