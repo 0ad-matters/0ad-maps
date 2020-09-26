@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1687.17" y="91.8343" z="922.55"/>
-		<Rotation angle="0"/>
+		<Position x="963.624" y="238.544" z="820.305"/>
+		<Rotation angle="1.23929"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -47,6 +47,7 @@
   "Name": "Death's Doorway 2v5 (7)",
   "Nomad": false,
   "PlayerData": [
+    null,
     {
       "Civ": "athen",
       "Name": "Player 1",
@@ -18397,14 +18398,14 @@
 		<Entity uid="5687">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="36.71135" z="776.53205"/>
-			<Orientation y="0.86356"/>
+			<Position x="353.8718" z="626.85755"/>
+			<Orientation y="-4.71601"/>
 		</Entity>
 		<Entity uid="5688">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="36.71135" z="772.53205"/>
-			<Orientation y="1.43413"/>
+			<Position x="351.28388" z="623.80756"/>
+			<Orientation y="-4.14544"/>
 		</Entity>
 		<Entity uid="5689">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18421,32 +18422,32 @@
 		<Entity uid="5691">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="186" z="1030"/>
-			<Orientation y="1.2736"/>
+			<Position x="309.1814" z="908.02021"/>
+			<Orientation y="1.15624"/>
 		</Entity>
 		<Entity uid="5692">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="198" z="1042"/>
-			<Orientation y="3.45896"/>
+			<Position x="319.69388" z="921.34198"/>
+			<Orientation y="3.3416"/>
 		</Entity>
 		<Entity uid="5693">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="206" z="1046"/>
-			<Orientation y="3.30259"/>
+			<Position x="308.34516" z="1058.3816"/>
+			<Orientation y="4.42922"/>
 		</Entity>
 		<Entity uid="5694">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="222" z="1038"/>
-			<Orientation y="0.33054"/>
+			<Position x="307.99659" z="1040.49646"/>
+			<Orientation y="1.45717"/>
 		</Entity>
 		<Entity uid="5695">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="226" z="1038"/>
-			<Orientation y="5.50737"/>
+			<Position x="309.71537" z="1036.88465"/>
+			<Orientation y="6.63401"/>
 		</Entity>
 		<Entity uid="5696">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18463,20 +18464,20 @@
 		<Entity uid="5698">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="234" z="1014"/>
-			<Orientation y="3.71344"/>
+			<Position x="291.4816" z="1019.34803"/>
+			<Orientation y="4.84008"/>
 		</Entity>
 		<Entity uid="5699">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="234" z="1022"/>
-			<Orientation y="0.59574"/>
+			<Position x="298.70539" z="1022.78577"/>
+			<Orientation y="1.72237"/>
 		</Entity>
 		<Entity uid="5700">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="242" z="1022"/>
-			<Orientation y="0.79624"/>
+			<Position x="302.14292" z="1015.56202"/>
+			<Orientation y="1.92287"/>
 		</Entity>
 		<Entity uid="5701">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18553,20 +18554,20 @@
 		<Entity uid="5713">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="238" z="1038"/>
-			<Orientation y="5.1349"/>
+			<Position x="314.87174" z="1026.04908"/>
+			<Orientation y="6.26153"/>
 		</Entity>
 		<Entity uid="5714">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="242" z="1026"/>
-			<Orientation y="4.81554"/>
+			<Position x="305.75483" z="1017.28083"/>
+			<Orientation y="5.94217"/>
 		</Entity>
 		<Entity uid="5715">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="242" z="1030"/>
-			<Orientation y="2.72847"/>
+			<Position x="309.3667" z="1018.99964"/>
+			<Orientation y="3.85511"/>
 		</Entity>
 		<Entity uid="5716">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18715,14 +18716,14 @@
 		<Entity uid="5740">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="24.7113" z="792.53205"/>
-			<Orientation y="2.90687"/>
+			<Position x="355.07355" z="646.82148"/>
+			<Orientation y="-2.6727"/>
 		</Entity>
 		<Entity uid="5741">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="24.7113" z="796.53205"/>
-			<Orientation y="1.1569"/>
+			<Position x="357.66147" z="649.87146"/>
+			<Orientation y="-4.42267"/>
 		</Entity>
 		<Entity uid="5742">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18757,20 +18758,20 @@
 		<Entity uid="5747">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="20.7113" z="812.53205"/>
-			<Orientation y="4.9973"/>
+			<Position x="364.96326" z="664.65943"/>
+			<Orientation y="-0.58227"/>
 		</Entity>
 		<Entity uid="5748">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="40.71135" z="776.53205"/>
-			<Orientation y="1.26787"/>
+			<Position x="356.92182" z="624.26966"/>
+			<Orientation y="-4.3117"/>
 		</Entity>
 		<Entity uid="5749">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="40.71135" z="780.53205"/>
-			<Orientation y="4.55117"/>
+			<Position x="359.50977" z="627.31965"/>
+			<Orientation y="-1.0284"/>
 		</Entity>
 		<Entity uid="5750">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18781,38 +18782,38 @@
 		<Entity uid="5751">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="190" z="1026"/>
-			<Orientation y="1.39638"/>
+			<Position x="313.62226" z="904.51587"/>
+			<Orientation y="1.27903"/>
 		</Entity>
 		<Entity uid="5752">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="198" z="1038"/>
-			<Orientation y="3.02627"/>
+			<Position x="320.16224" z="917.36945"/>
+			<Orientation y="2.90891"/>
 		</Entity>
 		<Entity uid="5753">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="202" z="1038"/>
-			<Orientation y="5.60923"/>
+			<Position x="324.13474" z="917.83777"/>
+			<Orientation y="5.49187"/>
 		</Entity>
 		<Entity uid="5754">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="210" z="1034"/>
-			<Orientation y="1.8839"/>
+			<Position x="299.22831" z="1049.61341"/>
+			<Orientation y="3.01053"/>
 		</Entity>
 		<Entity uid="5755">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="222" z="1034"/>
-			<Orientation y="4.42164"/>
+			<Position x="304.38468" z="1038.77771"/>
+			<Orientation y="5.54827"/>
 		</Entity>
 		<Entity uid="5756">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="238" z="1034"/>
-			<Orientation y="4.56827"/>
+			<Position x="311.25983" z="1024.33021"/>
+			<Orientation y="5.69491"/>
 		</Entity>
 		<Entity uid="5757">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -18823,8 +18824,8 @@
 		<Entity uid="5758">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="234" z="1026"/>
-			<Orientation y="0.5098"/>
+			<Position x="302.31727" z="1024.50452"/>
+			<Orientation y="1.63643"/>
 		</Entity>
 		<Entity uid="5759">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19057,8 +19058,8 @@
 		<Entity uid="5797">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="28.71135" z="804.53199"/>
-			<Orientation y="1.95946"/>
+			<Position x="365.8874" z="653.38343"/>
+			<Orientation y="-3.62011"/>
 		</Entity>
 		<Entity uid="5798">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19081,14 +19082,14 @@
 		<Entity uid="5801">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="36.71135" z="796.53205"/>
-			<Orientation y="5.82546"/>
+			<Position x="366.81156" z="642.10761"/>
+			<Orientation y="0.2459"/>
 		</Entity>
 		<Entity uid="5802">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="24.7113" z="812.53205"/>
-			<Orientation y="5.44262"/>
+			<Position x="368.01328" z="662.07148"/>
+			<Orientation y="-0.13695"/>
 		</Entity>
 		<Entity uid="5803">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19099,8 +19100,8 @@
 		<Entity uid="5805">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="24.7113" z="816.53205"/>
-			<Orientation y="0.16538"/>
+			<Position x="370.60123" z="665.12153"/>
+			<Orientation y="-5.41419"/>
 		</Entity>
 		<Entity uid="5806">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19123,50 +19124,50 @@
 		<Entity uid="5809">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="186" z="1022"/>
-			<Orientation y="3.7989"/>
+			<Position x="310.11811" z="900.07508"/>
+			<Orientation y="3.68154"/>
 		</Entity>
 		<Entity uid="5810">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="198" z="1030"/>
-			<Orientation y="0.25936"/>
+			<Position x="321.09885" z="909.4253"/>
+			<Orientation y="0.142"/>
 		</Entity>
 		<Entity uid="5811">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="202" z="1034"/>
-			<Orientation y="3.75893"/>
+			<Position x="324.60303" z="913.86579"/>
+			<Orientation y="3.64158"/>
 		</Entity>
 		<Entity uid="5812">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="206" z="1030"/>
-			<Orientation y="4.63631"/>
+			<Position x="329.04383" z="910.36194"/>
+			<Orientation y="4.51896"/>
 		</Entity>
 		<Entity uid="5813">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="210" z="1030"/>
-			<Orientation y="1.40925"/>
+			<Position x="295.6164" z="1047.89454"/>
+			<Orientation y="2.53588"/>
 		</Entity>
 		<Entity uid="5814">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="226" z="1030"/>
-			<Orientation y="2.33819"/>
+			<Position x="302.49161" z="1033.44703"/>
+			<Orientation y="3.46482"/>
 		</Entity>
 		<Entity uid="5815">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="234" z="1030"/>
-			<Orientation y="0.27987"/>
+			<Position x="305.92914" z="1026.22327"/>
+			<Orientation y="1.4065"/>
 		</Entity>
 		<Entity uid="5816">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="226" z="1026"/>
-			<Orientation y="3.72428"/>
+			<Position x="298.8797" z="1031.72815"/>
+			<Orientation y="4.85091"/>
 		</Entity>
 		<Entity uid="5817">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19459,8 +19460,8 @@
 		<Entity uid="5865">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="32.71135" z="808.53205"/>
-			<Orientation y="2.50051"/>
+			<Position x="371.5254" z="653.84559"/>
+			<Orientation y="-3.07906"/>
 		</Entity>
 		<Entity uid="5866">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19489,8 +19490,8 @@
 		<Entity uid="5871">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="20.7113" z="820.53205"/>
-			<Orientation y="5.0855"/>
+			<Position x="370.13917" z="670.75947"/>
+			<Orientation y="-0.49407"/>
 		</Entity>
 		<Entity uid="5872">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19519,32 +19520,32 @@
 		<Entity uid="5876">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="202" z="1022"/>
-			<Orientation y="2.13326"/>
+			<Position x="326.00806" z="901.9485"/>
+			<Orientation y="2.0159"/>
 		</Entity>
 		<Entity uid="5877">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="206" z="1026"/>
-			<Orientation y="3.96464"/>
+			<Position x="329.51221" z="906.38923"/>
+			<Orientation y="3.84728"/>
 		</Entity>
 		<Entity uid="5878">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="222" z="1026"/>
-			<Orientation y="2.77276"/>
+			<Position x="297.16092" z="1035.3401"/>
+			<Orientation y="3.89939"/>
 		</Entity>
 		<Entity uid="5879">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="222" z="1018"/>
-			<Orientation y="5.29691"/>
+			<Position x="289.93714" z="1031.90247"/>
+			<Orientation y="6.42354"/>
 		</Entity>
 		<Entity uid="5880">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="222" z="1022"/>
-			<Orientation y="1.42255"/>
+			<Position x="293.54902" z="1033.62134"/>
+			<Orientation y="2.54918"/>
 		</Entity>
 		<Entity uid="5881">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19777,14 +19778,14 @@
 		<Entity uid="5919">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="36.71135" z="804.53199"/>
-			<Orientation y="2.3204"/>
+			<Position x="371.9874" z="648.20759"/>
+			<Orientation y="-3.25918"/>
 		</Entity>
 		<Entity uid="5920">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="36.71135" z="812.53205"/>
-			<Orientation y="5.76362"/>
+			<Position x="377.16334" z="654.30762"/>
+			<Orientation y="0.18406"/>
 		</Entity>
 		<Entity uid="5921">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -19819,68 +19820,68 @@
 		<Entity uid="5926">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="214" z="1014"/>
-			<Orientation y="4.4942"/>
+			<Position x="282.88764" z="1037.40748"/>
+			<Orientation y="5.62082"/>
 		</Entity>
 		<Entity uid="5927">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="40.71135" z="804.53199"/>
-			<Orientation y="2.53257"/>
+			<Position x="375.03742" z="645.61963"/>
+			<Orientation y="-3.047"/>
 		</Entity>
 		<Entity uid="5928">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="44.71135" z="804.53199"/>
-			<Orientation y="4.94515"/>
+			<Position x="378.08741" z="643.03168"/>
+			<Orientation y="-0.63442"/>
 		</Entity>
 		<Entity uid="5929">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="20.7113" z="824.53205"/>
-			<Orientation y="1.04368"/>
+			<Position x="372.72712" z="673.80945"/>
+			<Orientation y="-4.5359"/>
 		</Entity>
 		<Entity uid="5930">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="28.71135" z="824.53205"/>
-			<Orientation y="3.97889"/>
+			<Position x="378.82715" z="668.63355"/>
+			<Orientation y="-1.60068"/>
 		</Entity>
 		<Entity uid="5931">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="182" z="1014"/>
-			<Orientation y="0.56734"/>
+			<Position x="307.08231" z="891.66175"/>
+			<Orientation y="0.44999"/>
 		</Entity>
 		<Entity uid="5932">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="190" z="1014"/>
-			<Orientation y="0.75348"/>
+			<Position x="315.02729" z="892.59845"/>
+			<Orientation y="0.63613"/>
 		</Entity>
 		<Entity uid="5933">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="194" z="1014"/>
-			<Orientation y="2.47648"/>
+			<Position x="318.99976" z="893.06678"/>
+			<Orientation y="2.35912"/>
 		</Entity>
 		<Entity uid="5934">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="202" z="1014"/>
-			<Orientation y="2.2466"/>
+			<Position x="326.94474" z="894.00348"/>
+			<Orientation y="2.12925"/>
 		</Entity>
 		<Entity uid="5935">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="206" z="1022"/>
-			<Orientation y="1.09273"/>
+			<Position x="329.98053" z="902.41681"/>
+			<Orientation y="0.97538"/>
 		</Entity>
 		<Entity uid="5936">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="214" z="1022"/>
-			<Orientation y="2.24637"/>
+			<Position x="290.11142" z="1040.8451"/>
+			<Orientation y="3.37301"/>
 		</Entity>
 		<Entity uid="5937">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -20023,8 +20024,8 @@
 		<Entity uid="5962">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="40.71135" z="820.53205"/>
-			<Orientation y="5.41144"/>
+			<Position x="385.38923" z="657.81971"/>
+			<Orientation y="-0.16813"/>
 		</Entity>
 		<Entity uid="5963">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -20047,8 +20048,8 @@
 		<Entity uid="5967">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="32.71135" z="828.53205"/>
-			<Orientation y="3.64307"/>
+			<Position x="384.46512" z="669.09559"/>
+			<Orientation y="-1.9365"/>
 		</Entity>
 		<Entity uid="5968">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -20083,8 +20084,8 @@
 		<Entity uid="5974">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="186" z="1010"/>
-			<Orientation y="2.67373"/>
+			<Position x="311.52314" z="888.1576"/>
+			<Orientation y="2.55637"/>
 		</Entity>
 		<Entity uid="5975">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -20095,8 +20096,8 @@
 		<Entity uid="5976">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="28.71135" z="832.53205"/>
-			<Orientation y="5.531"/>
+			<Position x="384.00306" z="674.73353"/>
+			<Orientation y="-0.04857"/>
 		</Entity>
 		<Entity uid="5977">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -20185,8 +20186,8 @@
 		<Entity uid="5991">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
 			<Player>0</Player>
-			<Position x="44.71135" z="812.53205"/>
-			<Orientation y="1.209"/>
+			<Position x="383.26334" z="649.13172"/>
+			<Orientation y="-4.37056"/>
 		</Entity>
 		<Entity uid="5992">
 			<Template>gaia/flora_tree_euro_beech_aut</Template>
@@ -61674,37 +61675,37 @@
 		<Entity uid="17208">
 			<Template>gaia/flora_bush_berry</Template>
 			<Player>0</Player>
-			<Position x="1109.82441" z="1117.65204"/>
+			<Position x="1079.98414" z="1103.78748"/>
 			<Orientation y="-4.14402"/>
 		</Entity>
 		<Entity uid="17209">
 			<Template>gaia/flora_bush_berry</Template>
 			<Player>0</Player>
-			<Position x="1098.93061" z="1100.35749"/>
+			<Position x="1069.09034" z="1086.4928"/>
 			<Orientation y="-3.62687"/>
 		</Entity>
 		<Entity uid="17210">
 			<Template>gaia/flora_bush_berry</Template>
 			<Player>0</Player>
-			<Position x="1119.05433" z="1119.03412"/>
+			<Position x="1089.214" z="1105.16956"/>
 			<Orientation y="1.0356"/>
 		</Entity>
 		<Entity uid="17211">
 			<Template>gaia/flora_bush_berry</Template>
 			<Player>0</Player>
-			<Position x="1112.56489" z="1127.55073"/>
+			<Position x="1082.72461" z="1113.68616"/>
 			<Orientation y="-0.67089"/>
 		</Entity>
 		<Entity uid="17212">
 			<Template>gaia/flora_bush_berry</Template>
 			<Player>0</Player>
-			<Position x="1106.82123" z="1110.13935"/>
+			<Position x="1077.02271" z="1096.36561"/>
 			<Orientation y="0.63552"/>
 		</Entity>
 		<Entity uid="17213">
 			<Template>gaia/flora_bush_berry</Template>
 			<Player>0</Player>
-			<Position x="1100.73676" z="1123.12238"/>
+			<Position x="1070.89649" z="1109.2577"/>
 			<Orientation y="-3.69964"/>
 		</Entity>
 		<Entity uid="17214">
@@ -66159,6 +66160,202 @@
 			<Position x="456.89823" z="1214.10438"/>
 			<Orientation y="-0.58495"/>
 			<Actor seed="214"/>
+		</Entity>
+		<Entity uid="18131">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="402.12143" z="686.51618"/>
+			<Orientation y="-4.65163"/>
+			<Actor seed="5991"/>
+		</Entity>
+		<Entity uid="18132">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="395.73075" z="711.31855"/>
+			<Orientation y="-0.32964"/>
+			<Actor seed="5976"/>
+		</Entity>
+		<Entity uid="18133">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="397.7385" z="706.03003"/>
+			<Orientation y="-2.21756"/>
+			<Actor seed="5967"/>
+		</Entity>
+		<Entity uid="18134">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="401.75403" z="695.45295"/>
+			<Orientation y="-0.44921"/>
+			<Actor seed="5962"/>
+		</Entity>
+		<Entity uid="18135">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="392.44993" z="704.02228"/>
+			<Orientation y="-1.88175"/>
+			<Actor seed="5930"/>
+		</Entity>
+		<Entity uid="18136">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="385.15357" z="707.30304"/>
+			<Orientation y="-4.81698"/>
+			<Actor seed="5929"/>
+		</Entity>
+		<Entity uid="18137">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="398.84061" z="679.2198"/>
+			<Orientation y="-0.91549"/>
+			<Actor seed="5928"/>
+		</Entity>
+		<Entity uid="18138">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="395.19245" z="680.86023"/>
+			<Orientation y="-3.32807"/>
+			<Actor seed="5927"/>
+		</Entity>
+		<Entity uid="18139">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="394.82511" z="689.797"/>
+			<Orientation y="-0.09701"/>
+			<Actor seed="5920"/>
+		</Entity>
+		<Entity uid="18140">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="391.54429" z="682.50062"/>
+			<Orientation y="-3.54026"/>
+			<Actor seed="5919"/>
+		</Entity>
+		<Entity uid="18141">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="383.51316" z="703.65491"/>
+			<Orientation y="-0.77514"/>
+			<Actor seed="5871"/>
+		</Entity>
+		<Entity uid="18142">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="389.53653" z="687.78925"/>
+			<Orientation y="-3.36013"/>
+			<Actor seed="5865"/>
+		</Entity>
+		<Entity uid="18143">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="385.52094" z="698.36634"/>
+			<Orientation y="-5.69526"/>
+			<Actor seed="5805"/>
+		</Entity>
+		<Entity uid="18144">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="383.88056" z="694.71814"/>
+			<Orientation y="-0.41802"/>
+			<Actor seed="5802"/>
+		</Entity>
+		<Entity uid="18145">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="388.26352" z="675.20435"/>
+			<Orientation y="-0.03518"/>
+			<Actor seed="5801"/>
+		</Entity>
+		<Entity uid="18146">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="384.24796" z="685.78132"/>
+			<Orientation y="-3.90119"/>
+			<Actor seed="5797"/>
+		</Entity>
+		<Entity uid="18147">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="385.35013" z="658.97126"/>
+			<Orientation y="-1.30947"/>
+			<Actor seed="5749"/>
+		</Entity>
+		<Entity uid="18148">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="383.70972" z="655.32313"/>
+			<Orientation y="-4.59278"/>
+			<Actor seed="5748"/>
+		</Entity>
+		<Entity uid="18149">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="380.23237" z="696.35853"/>
+			<Orientation y="-0.86335"/>
+			<Actor seed="5747"/>
+		</Entity>
+		<Entity uid="18150">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="377.31897" z="680.1255"/>
+			<Orientation y="-4.70374"/>
+			<Actor seed="5741"/>
+		</Entity>
+		<Entity uid="18151">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="375.6786" z="676.47736"/>
+			<Orientation y="-2.95377"/>
+			<Actor seed="5740"/>
+		</Entity>
+		<Entity uid="18152">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="378.42118" z="653.31531"/>
+			<Orientation y="-4.42652"/>
+			<Actor seed="5688"/>
+		</Entity>
+		<Entity uid="18153">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="380.06156" z="656.96344"/>
+			<Orientation y="-4.99708"/>
+			<Actor seed="5687"/>
+		</Entity>
+		<Entity uid="18154">
+			<Template>gaia/ruins/stone_statues_egyptian</Template>
+			<Player>0</Player>
+			<Position x="1099.5348" z="1153.51917"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40883"/>
+		</Entity>
+		<Entity uid="18155">
+			<Template>gaia/ruins/stone_statues_egyptian</Template>
+			<Player>0</Player>
+			<Position x="1108.35816" z="1152.98255"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="33656"/>
+		</Entity>
+		<Entity uid="18156">
+			<Template>gaia/ruins/stone_statues_egyptian</Template>
+			<Player>0</Player>
+			<Position x="1100.51014" z="1144.6139"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65168"/>
+		</Entity>
+		<Entity uid="18157">
+			<Template>gaia/ruins/stone_statues_egyptian</Template>
+			<Player>0</Player>
+			<Position x="1109.45179" z="1144.386"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13603"/>
+		</Entity>
+		<Entity uid="18158">
+			<Template>gaia/ruins/stone_statues_roman</Template>
+			<Player>0</Player>
+			<Position x="1103.37061" z="1150.0923"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14204"/>
 		</Entity>
 	</Entities>
 	<Paths/>
