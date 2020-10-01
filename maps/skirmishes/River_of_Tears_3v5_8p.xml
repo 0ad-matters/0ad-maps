@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="439.839" y="143.596" z="487.271"/>
-		<Rotation angle="-2.85396"/>
+		<Position x="1037.8" y="236.683" z="763.682"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -50,36 +50,120 @@
     {
       "Civ": "athen",
       "Name": "Player 1",
+      "StartingCamera": {
+        "Position": {
+          "x": 1029.26,
+          "y": 79.6252,
+          "z": 228.306
+        },
+        "Rotation": {
+          "x": 51.8137,
+          "y": 33.7205,
+          "z": -0.00084068
+        }
+      },
       "Team": 0
     },
     {
       "Civ": "cart",
       "Name": "Player 2",
+      "StartingCamera": {
+        "Position": {
+          "x": 772.188,
+          "y": 68,
+          "z": 208.912
+        },
+        "Rotation": {
+          "x": 51.8137,
+          "y": 33.7205,
+          "z": -0.00084068
+        }
+      },
       "Team": 0
     },
     {
       "Civ": "gaul",
       "Name": "Player 3",
+      "StartingCamera": {
+        "Position": {
+          "x": 512.492,
+          "y": 68,
+          "z": 237.84
+        },
+        "Rotation": {
+          "x": 51.8137,
+          "y": 33.7205,
+          "z": -0.00084068
+        }
+      },
       "Team": 0
     },
     {
       "Civ": "iber",
       "Name": "Player 4",
+      "StartingCamera": {
+        "Position": {
+          "x": 766.134,
+          "y": 68,
+          "z": 1004.59
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "mace",
       "Name": "Player 5",
+      "StartingCamera": {
+        "Position": {
+          "x": 541.952,
+          "y": 68,
+          "z": 1004.59
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "maur",
       "Name": "Player 6",
+      "StartingCamera": {
+        "Position": {
+          "x": 1037.8,
+          "y": 68,
+          "z": 1004.59
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "pers",
       "Name": "Player 7",
+      "StartingCamera": {
+        "Position": {
+          "x": 622.015,
+          "y": 68,
+          "z": 1004.59
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
@@ -87,14 +171,14 @@
       "Name": "Player 8",
       "StartingCamera": {
         "Position": {
-          "x": 774.265,
-          "y": 68,
-          "z": 275.399
+          "x": 268.281,
+          "y": 68.6848,
+          "z": 996.06
         },
         "Rotation": {
-          "x": 35,
-          "y": 42.9645,
-          "z": 0.00000583357
+          "x": 51.8137,
+          "y": 33.7205,
+          "z": -0.00084068
         }
       },
       "Team": 1
@@ -406,7 +490,7 @@
 		<Entity uid="201">
 			<Template>skirmish/units/default_support_female_citizen</Template>
 			<Player>7</Player>
-			<Position x="595.63984" z="1026.22803"/>
+			<Position x="595.6438" z="1026.28577"/>
 			<Orientation y="3.927"/>
 		</Entity>
 		<Entity uid="202">
@@ -653,30 +737,6 @@
 			<Position x="512" z="1040"/>
 			<Orientation y="2.35621"/>
 		</Entity>
-		<Entity uid="245">
-			<Template>units/mace_support_female_citizen</Template>
-			<Player>5</Player>
-			<Position x="486.54413" z="1031.51471"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="246">
-			<Template>units/mace_support_female_citizen</Template>
-			<Player>5</Player>
-			<Position x="492.201" z="1025.85785"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="247">
-			<Template>units/mace_support_female_citizen</Template>
-			<Player>5</Player>
-			<Position x="497.85785" z="1020.201"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="248">
-			<Template>units/mace_support_female_citizen</Template>
-			<Player>5</Player>
-			<Position x="503.51471" z="1014.54413"/>
-			<Orientation y="3.927"/>
-		</Entity>
 		<Entity uid="249">
 			<Template>units/mace_infantry_pikeman_b</Template>
 			<Player>5</Player>
@@ -919,30 +979,6 @@
 			<Player>3</Player>
 			<Position x="512" z="240"/>
 			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="292">
-			<Template>units/spart_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="486.54413" z="231.51471"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="293">
-			<Template>units/spart_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="492.201" z="225.85785"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="294">
-			<Template>units/spart_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="497.85785" z="220.201"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="295">
-			<Template>units/spart_support_female_citizen</Template>
-			<Player>3</Player>
-			<Position x="503.51471" z="214.54413"/>
-			<Orientation y="3.927"/>
 		</Entity>
 		<Entity uid="296">
 			<Template>units/spart_infantry_spearman_b</Template>
@@ -1439,30 +1475,6 @@
 			<Position x="768" z="240"/>
 			<Orientation y="2.35621"/>
 		</Entity>
-		<Entity uid="383">
-			<Template>units/rome_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="742.54413" z="231.51471"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="384">
-			<Template>units/rome_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="748.201" z="225.85785"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="385">
-			<Template>units/rome_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="753.85785" z="220.201"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="386">
-			<Template>units/rome_support_female_citizen</Template>
-			<Player>2</Player>
-			<Position x="759.51471" z="214.54413"/>
-			<Orientation y="3.927"/>
-		</Entity>
 		<Entity uid="387">
 			<Template>units/rome_infantry_swordsman_b</Template>
 			<Player>2</Player>
@@ -1696,30 +1708,6 @@
 			<Position x="1024" z="1040"/>
 			<Orientation y="2.35621"/>
 		</Entity>
-		<Entity uid="428">
-			<Template>units/pers_support_female_citizen</Template>
-			<Player>6</Player>
-			<Position x="998.54413" z="1031.51471"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="429">
-			<Template>units/pers_support_female_citizen</Template>
-			<Player>6</Player>
-			<Position x="1004.201" z="1025.85785"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="430">
-			<Template>units/pers_support_female_citizen</Template>
-			<Player>6</Player>
-			<Position x="1009.85785" z="1020.201"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="431">
-			<Template>units/pers_support_female_citizen</Template>
-			<Player>6</Player>
-			<Position x="1015.51471" z="1014.54413"/>
-			<Orientation y="3.927"/>
-		</Entity>
 		<Entity uid="432">
 			<Template>units/pers_infantry_spearman_b</Template>
 			<Player>6</Player>
@@ -1947,30 +1935,6 @@
 			<Player>1</Player>
 			<Position x="1024" z="240"/>
 			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="472">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="998.54413" z="231.51471"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="473">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="1004.201" z="225.85785"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="474">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="1009.85785" z="220.201"/>
-			<Orientation y="3.927"/>
-		</Entity>
-		<Entity uid="475">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>1</Player>
-			<Position x="1015.51471" z="214.54413"/>
-			<Orientation y="3.927"/>
 		</Entity>
 		<Entity uid="476">
 			<Template>units/athen_infantry_spearman_b</Template>
@@ -8943,7 +8907,7 @@
 		<Entity uid="1640">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1076.70777" z="108.39711"/>
+			<Position x="1037.86036" z="66.26658"/>
 			<Orientation y="5.64318"/>
 		</Entity>
 		<Entity uid="1641">
@@ -9003,13 +8967,13 @@
 		<Entity uid="1650">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1086" z="34"/>
+			<Position x="1035.57996" z="48.98722"/>
 			<Orientation y="4.03092"/>
 		</Entity>
 		<Entity uid="1651">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1086" z="38"/>
+			<Position x="1059.68433" z="54.8281"/>
 			<Orientation y="0.61577"/>
 		</Entity>
 		<Entity uid="1652">
@@ -9039,19 +9003,19 @@
 		<Entity uid="1656">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1062" z="22"/>
+			<Position x="1032.37378" z="46.18813"/>
 			<Orientation y="1.02128"/>
 		</Entity>
 		<Entity uid="1657">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1070" z="22"/>
+			<Position x="1040.37378" z="46.18813"/>
 			<Orientation y="4.13678"/>
 		</Entity>
 		<Entity uid="1658">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1082" z="22"/>
+			<Position x="1052.37378" z="46.18813"/>
 			<Orientation y="4.7758"/>
 		</Entity>
 		<Entity uid="1659">
@@ -9081,7 +9045,7 @@
 		<Entity uid="1663">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1086" z="46"/>
+			<Position x="1068.92054" z="61.85495"/>
 			<Orientation y="6.10337"/>
 		</Entity>
 		<Entity uid="1664">
@@ -9093,7 +9057,7 @@
 		<Entity uid="1665">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1082" z="110"/>
+			<Position x="1043.1526" z="67.86947"/>
 			<Orientation y="4.96074"/>
 		</Entity>
 		<Entity uid="1666">
@@ -9153,7 +9117,7 @@
 		<Entity uid="1675">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1082" z="26"/>
+			<Position x="1052.37378" z="50.18818"/>
 			<Orientation y="2.70148"/>
 		</Entity>
 		<Entity uid="1676">
@@ -9177,19 +9141,19 @@
 		<Entity uid="1679">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1062" z="26"/>
+			<Position x="1032.37378" z="50.18818"/>
 			<Orientation y="5.8416"/>
 		</Entity>
 		<Entity uid="1680">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1062" z="30"/>
+			<Position x="1044.92054" z="45.85495"/>
 			<Orientation y="1.07062"/>
 		</Entity>
 		<Entity uid="1681">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1078" z="26"/>
+			<Position x="1048.37378" z="50.18818"/>
 			<Orientation y="1.48226"/>
 		</Entity>
 		<Entity uid="1682">
@@ -9249,7 +9213,7 @@
 		<Entity uid="1691">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1086" z="90"/>
+			<Position x="1047.1526" z="47.86947"/>
 			<Orientation y="4.65966"/>
 		</Entity>
 		<Entity uid="1692">
@@ -9273,7 +9237,7 @@
 		<Entity uid="1695">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1058.15174" z="102.26322"/>
+			<Position x="1019.30433" z="60.13268"/>
 			<Orientation y="2.54229"/>
 		</Entity>
 		<Entity uid="1696">
@@ -9285,7 +9249,7 @@
 		<Entity uid="1697">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1082" z="46"/>
+			<Position x="1064.92054" z="61.85495"/>
 			<Orientation y="2.46207"/>
 		</Entity>
 		<Entity uid="1698">
@@ -9333,7 +9297,7 @@
 		<Entity uid="1705">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1086" z="102"/>
+			<Position x="1047.1526" z="59.86947"/>
 			<Orientation y="2.34777"/>
 		</Entity>
 		<Entity uid="1706">
@@ -9441,25 +9405,25 @@
 		<Entity uid="1723">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1078" z="30"/>
+			<Position x="1060.92054" z="45.85495"/>
 			<Orientation y="1.88074"/>
 		</Entity>
 		<Entity uid="1724">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1078" z="34"/>
+			<Position x="1060.92054" z="49.85495"/>
 			<Orientation y="2.6615"/>
 		</Entity>
 		<Entity uid="1725">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1078" z="46"/>
+			<Position x="1060.92054" z="61.85495"/>
 			<Orientation y="2.0938"/>
 		</Entity>
 		<Entity uid="1726">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1062" z="34"/>
+			<Position x="1044.92054" z="49.85495"/>
 			<Orientation y="3.89814"/>
 		</Entity>
 		<Entity uid="1727">
@@ -9495,25 +9459,25 @@
 		<Entity uid="1732">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1058.15174" z="106.26322"/>
+			<Position x="1019.30433" z="64.13268"/>
 			<Orientation y="1.62858"/>
 		</Entity>
 		<Entity uid="1733">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1058.15174" z="110.26322"/>
+			<Position x="1019.30433" z="68.13268"/>
 			<Orientation y="3.83011"/>
 		</Entity>
 		<Entity uid="1734">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1058.15174" z="114.26322"/>
+			<Position x="1019.30433" z="72.13268"/>
 			<Orientation y="5.52424"/>
 		</Entity>
 		<Entity uid="1735">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1058.15174" z="118.26322"/>
+			<Position x="1019.30433" z="76.13268"/>
 			<Orientation y="3.78528"/>
 		</Entity>
 		<Entity uid="1736">
@@ -9537,7 +9501,7 @@
 		<Entity uid="1739">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1090" z="94"/>
+			<Position x="1051.1526" z="51.86947"/>
 			<Orientation y="0.91538"/>
 		</Entity>
 		<Entity uid="1740">
@@ -9549,19 +9513,19 @@
 		<Entity uid="1741">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1070.83375" z="109.45249"/>
+			<Position x="1031.98633" z="67.32195"/>
 			<Orientation y="0.76667"/>
 		</Entity>
 		<Entity uid="1742">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1066.15174" z="106.26322"/>
+			<Position x="1027.30433" z="64.13268"/>
 			<Orientation y="1.43224"/>
 		</Entity>
 		<Entity uid="1743">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1070.15174" z="98.26322"/>
+			<Position x="1031.30433" z="56.13268"/>
 			<Orientation y="5.16402"/>
 		</Entity>
 		<Entity uid="1744">
@@ -9687,7 +9651,7 @@
 		<Entity uid="1764">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1074" z="38"/>
+			<Position x="1056.92054" z="53.85495"/>
 			<Orientation y="4.56661"/>
 		</Entity>
 		<Entity uid="1765">
@@ -9771,13 +9735,13 @@
 		<Entity uid="1778">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1070.15174" z="102.26322"/>
+			<Position x="1031.30433" z="60.13268"/>
 			<Orientation y="6.1853"/>
 		</Entity>
 		<Entity uid="1779">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1066.15174" z="110.26322"/>
+			<Position x="1027.30433" z="68.13268"/>
 			<Orientation y="2.49727"/>
 		</Entity>
 		<Entity uid="1780">
@@ -9867,7 +9831,7 @@
 		<Entity uid="1794">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1066.15174" z="114.26322"/>
+			<Position x="1027.30433" z="72.13268"/>
 			<Orientation y="0.05243"/>
 		</Entity>
 		<Entity uid="1795">
@@ -33561,7 +33525,7 @@
 		<Entity uid="5743">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="983.43586" z="33.39071"/>
+			<Position x="983.67408" z="46.89646"/>
 			<Orientation y="3.42272"/>
 		</Entity>
 		<Entity uid="5744">
@@ -33633,7 +33597,7 @@
 		<Entity uid="5755">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="947.43586" z="49.39075"/>
+			<Position x="966.35169" z="51.21023"/>
 			<Orientation y="3.00492"/>
 		</Entity>
 		<Entity uid="5756">
@@ -33741,25 +33705,25 @@
 		<Entity uid="5773">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="947.43586" z="37.39072"/>
+			<Position x="966.58991" z="52.71595"/>
 			<Orientation y="4.35453"/>
 		</Entity>
 		<Entity uid="5774">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="951.43586" z="41.39072"/>
+			<Position x="970.58991" z="56.71595"/>
 			<Orientation y="5.49807"/>
 		</Entity>
 		<Entity uid="5775">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="955.43586" z="53.39077"/>
+			<Position x="974.35169" z="55.21024"/>
 			<Orientation y="1.62368"/>
 		</Entity>
 		<Entity uid="5776">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="955.43586" z="61.3908"/>
+			<Position x="974.35169" z="63.21027"/>
 			<Orientation y="2.63126"/>
 		</Entity>
 		<Entity uid="5777">
@@ -33801,7 +33765,7 @@
 		<Entity uid="5783">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="971.43586" z="37.39072"/>
+			<Position x="971.67408" z="50.89647"/>
 			<Orientation y="1.37037"/>
 		</Entity>
 		<Entity uid="5784">
@@ -33849,31 +33813,31 @@
 		<Entity uid="5791">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="955.43586" z="33.39071"/>
+			<Position x="974.58991" z="48.71593"/>
 			<Orientation y="1.70028"/>
 		</Entity>
 		<Entity uid="5792">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="955.43586" z="41.39072"/>
+			<Position x="974.35169" z="43.2102"/>
 			<Orientation y="4.45047"/>
 		</Entity>
 		<Entity uid="5793">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="959.43586" z="45.39075"/>
+			<Position x="978.35169" z="47.21023"/>
 			<Orientation y="5.22851"/>
 		</Entity>
 		<Entity uid="5794">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="959.43586" z="61.3908"/>
+			<Position x="978.35169" z="63.21027"/>
 			<Orientation y="3.96474"/>
 		</Entity>
 		<Entity uid="5795">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="959.43586" z="65.39081"/>
+			<Position x="969.82923" z="62.22725"/>
 			<Orientation y="5.34649"/>
 		</Entity>
 		<Entity uid="5796">
@@ -33921,13 +33885,13 @@
 		<Entity uid="5803">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="967.43586" z="37.39072"/>
+			<Position x="967.67408" z="50.89647"/>
 			<Orientation y="0.23714"/>
 		</Entity>
 		<Entity uid="5804">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="967.43586" z="41.39072"/>
+			<Position x="967.67408" z="54.89647"/>
 			<Orientation y="1.69178"/>
 		</Entity>
 		<Entity uid="5805">
@@ -33939,13 +33903,13 @@
 		<Entity uid="5806">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="963.43586" z="33.39071"/>
+			<Position x="963.67408" z="46.89646"/>
 			<Orientation y="3.29479"/>
 		</Entity>
 		<Entity uid="5807">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="963.43586" z="37.39072"/>
+			<Position x="963.67408" z="50.89647"/>
 			<Orientation y="4.04307"/>
 		</Entity>
 		<Entity uid="5808">
@@ -34005,25 +33969,25 @@
 		<Entity uid="5817">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="963.43586" z="49.39075"/>
+			<Position x="982.35169" z="51.21023"/>
 			<Orientation y="1.13387"/>
 		</Entity>
 		<Entity uid="5818">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="963.43586" z="53.39077"/>
+			<Position x="982.35169" z="55.21024"/>
 			<Orientation y="0.5829"/>
 		</Entity>
 		<Entity uid="5819">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="963.43586" z="57.3908"/>
+			<Position x="982.35169" z="59.21027"/>
 			<Orientation y="1.36957"/>
 		</Entity>
 		<Entity uid="5820">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="963.43586" z="61.3908"/>
+			<Position x="982.35169" z="63.21027"/>
 			<Orientation y="5.77225"/>
 		</Entity>
 		<Entity uid="5821">
@@ -34047,7 +34011,7 @@
 		<Entity uid="5824">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="975.43586" z="61.3908"/>
+			<Position x="973.693" z="65.18946"/>
 			<Orientation y="4.64438"/>
 		</Entity>
 		<Entity uid="5825">
@@ -82287,7 +82251,7 @@
 		<Entity uid="15282">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1065.87037" z="97.95722"/>
+			<Position x="1027.02295" z="55.82668"/>
 			<Orientation y="-2.67484"/>
 		</Entity>
 		<Entity uid="15283">
@@ -82623,7 +82587,7 @@
 		<Entity uid="15338">
 			<Template>gaia/flora_tree_toona</Template>
 			<Player>0</Player>
-			<Position x="1057.56983" z="103.65803"/>
+			<Position x="1018.72242" z="61.52749"/>
 			<Orientation y="0.02811"/>
 		</Entity>
 		<Entity uid="15339">
@@ -83217,7 +83181,7 @@
 		<Entity uid="15437">
 			<Template>gaia/flora_tree_palm_tropic</Template>
 			<Player>0</Player>
-			<Position x="950.69428" z="60.00943"/>
+			<Position x="969.61011" z="61.82891"/>
 			<Orientation y="0.57688"/>
 		</Entity>
 		<Entity uid="15438">
@@ -83680,7 +83644,7 @@
 		<Entity uid="15518">
 			<Template>gaia/fauna_fish_tuna</Template>
 			<Player>0</Player>
-			<Position x="67.44906" z="1117.16736"/>
+			<Position x="72.95948" z="1115.24305"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="5409"/>
 		</Entity>
@@ -85227,7 +85191,7 @@
 		<Entity uid="15753">
 			<Template>gaia/fauna_fish</Template>
 			<Player>0</Player>
-			<Position x="112.33227" z="1097.4607"/>
+			<Position x="117.84269" z="1095.53638"/>
 			<Orientation y="-0.90461"/>
 			<Actor seed="45771"/>
 		</Entity>
@@ -85248,7 +85212,7 @@
 		<Entity uid="15758">
 			<Template>gaia/fauna_fish</Template>
 			<Player>0</Player>
-			<Position x="126.9308" z="1098.31873"/>
+			<Position x="123.39628" z="1104.54126"/>
 			<Orientation y="-0.90462"/>
 			<Actor seed="45771"/>
 		</Entity>
@@ -85398,6 +85362,146 @@
 			<Position x="627.51185" z="694.9527"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="47070"/>
+		</Entity>
+		<Entity uid="15787">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>6</Player>
+			<Position x="1014.7096" z="1013.23145"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="342"/>
+		</Entity>
+		<Entity uid="15788">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>6</Player>
+			<Position x="1009.05274" z="1018.88831"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="341"/>
+		</Entity>
+		<Entity uid="15789">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>6</Player>
+			<Position x="1003.39588" z="1024.54517"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="340"/>
+		</Entity>
+		<Entity uid="15790">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>6</Player>
+			<Position x="997.73902" z="1030.20215"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="339"/>
+		</Entity>
+		<Entity uid="15791">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>1</Player>
+			<Position x="1014.61133" z="214.72135"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="342"/>
+		</Entity>
+		<Entity uid="15792">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>1</Player>
+			<Position x="1008.95447" z="220.37821"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="341"/>
+		</Entity>
+		<Entity uid="15793">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>1</Player>
+			<Position x="1003.29761" z="226.03513"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="340"/>
+		</Entity>
+		<Entity uid="15794">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>1</Player>
+			<Position x="997.64075" z="231.692"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="339"/>
+		</Entity>
+		<Entity uid="15795">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>2</Player>
+			<Position x="761.50824" z="214.51694"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="342"/>
+		</Entity>
+		<Entity uid="15796">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>2</Player>
+			<Position x="755.85138" z="220.1738"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="341"/>
+		</Entity>
+		<Entity uid="15797">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>2</Player>
+			<Position x="750.19452" z="225.83072"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="340"/>
+		</Entity>
+		<Entity uid="15798">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>2</Player>
+			<Position x="744.53766" z="231.48758"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="339"/>
+		</Entity>
+		<Entity uid="15799">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>3</Player>
+			<Position x="504.51581" z="216.01935"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="342"/>
+		</Entity>
+		<Entity uid="15800">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>3</Player>
+			<Position x="498.85895" z="221.67621"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="341"/>
+		</Entity>
+		<Entity uid="15801">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>3</Player>
+			<Position x="493.2021" z="227.33313"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="340"/>
+		</Entity>
+		<Entity uid="15802">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>3</Player>
+			<Position x="487.54523" z="232.99"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="339"/>
+		</Entity>
+		<Entity uid="15807">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>5</Player>
+			<Position x="508.75492" z="1015.36493"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="342"/>
+		</Entity>
+		<Entity uid="15808">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>5</Player>
+			<Position x="503.09806" z="1021.0218"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="341"/>
+		</Entity>
+		<Entity uid="15809">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>5</Player>
+			<Position x="497.4412" z="1026.67872"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="340"/>
+		</Entity>
+		<Entity uid="15810">
+			<Template>skirmish/units/default_support_female_citizen</Template>
+			<Player>5</Player>
+			<Position x="491.78434" z="1032.33558"/>
+			<Orientation y="3.92701"/>
+			<Actor seed="339"/>
 		</Entity>
 	</Entities>
 	<Paths/>
