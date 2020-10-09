@@ -57,11 +57,21 @@ var clBaseResource = g_Map.createTileClass();
 
 var startAngle = randomAngle();
 
+/* Players are placed close together, based on teams.
+ *
+ * Adapted by player placement code used on the Pyrenean Sierra map
+ */
+var playerIDs = sortAllPlayers();
+var playerPosition = playerPlacementArcs(
+	playerIDs,
+	mapCenter,
+	fractionToTiles(0.35),
+	startAngle,
+	0.25 * Math.PI,
+	0.75 * Math.PI);
+
 placePlayerBases({
-	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementCustomAngle(
-		fractionToTiles(0.35),
-		mapCenter,
-		i => startAngle - 1/6 * Math.PI * (1 - (i % (numPlayers/2))) + Math.PI * (i >= numPlayers/2 ? 1: 0 ))],
+	"PlayerPlacement": [playerIDs, playerPosition],
 	"PlayerTileClass": clPlayer,
 	"BaseResourceClass": clBaseResource,
 	"CityPatch": {
