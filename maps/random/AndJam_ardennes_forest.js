@@ -129,11 +129,56 @@ Engine.SetProgress(10);
 
 var startAngle = randomAngle();
 
+function playerPlacementMultiArcs(playerIDs, center, radius, mapAngle, teamGapCircleFrac) {
+	let playerTeams = playerIDs.map(getPlayerTeam);
+	let uniqueTeams = new Set(playerTeams);
+	let nTeams = uniqueTeams.size;
+	g_Map.log("ids: " + playerIDs);
+	g_Map.log("teams: " + Array.from(uniqueTeams));
+	g_Map.log("player teams: " + playerTeams);
+	let teamIntMap = {};
+	let teamPlayersIntMap = {};
+	Array.from(uniqueTeams).map((val, i) => {teamIntMap[val] = i;});
+	Array.from(uniqueTeams).map((val) => {teamPlayersIntMap[val] = 0;});
+
+	g_Map.log("obj1: " + teamIntMap.toSource());
+	g_Map.log("obj2: " + teamPlayersIntMap.toSource());
+	const teamAngle = 2*Math.PI/nTeams;
+	const teamGapAngle = teamGapCircleFrac*2*Math.PI;
+	g_Map.log("teamAngle: " + teamAngle);
+	g_Map.log("teamGapAngle: " + teamGapAngle);
+
+	function playerAngle(i) {
+		// let idIndex = playerIDs[i] - 1;
+		g_Map.log("val1: " + teamIntMap[playerTeams[i]]);
+		g_Map.log("val2: " + teamPlayersIntMap[playerTeams[i]]);
+		let angle = mapAngle + teamAngle*teamIntMap[playerTeams[i]] + teamGapAngle*(teamPlayersIntMap[playerTeams[i]]+1/2);
+		if (teamPlayersIntMap[playerTeams[i]] >= 0) {
+			teamPlayersIntMap[playerTeams[i]] += 1;
+			teamPlayersIntMap[playerTeams[i]] = -teamPlayersIntMap[playerTeams[i]];
+		}
+		else {
+			teamPlayersIntMap[playerTeams[i]] = -teamPlayersIntMap[playerTeams[i]];
+		}
+		g_Map.log("angle: " + angle);
+		return angle;
+	}
+
+	let ans = playerPlacementCustomAngle(
+		radius,
+		center,
+		playerAngle);
+	g_Map.log("ans: " + ans);
+	return ans;
+}
+
 placePlayerBases({
-	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementCustomAngle(
-		fractionToTiles(0.35),
+	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementMultiArcs(
+		playerIDs,
 		mapCenter,
-		i => startAngle - 1/6 * Math.PI * (1 - (i % (numPlayers/2))) + Math.PI * (i >= numPlayers/2 ? 1: 0 ))],
+		fractionToTiles(0.35),
+		0,
+		0.0833)],
 	"BaseResourceClass": clBaseResource,
 	// Playerclass marked below
 	"CityPatch": {
