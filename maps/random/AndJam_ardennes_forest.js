@@ -129,102 +129,11 @@ Engine.SetProgress(10);
 
 var startAngle = randomAngle();
 
-/**
- * Place on an arc on a circle, 1 arc per team. Each team member is on the same arc.
- * @param {Array[int]} playerIDs 
- * @param {float} center 
- * @param {float} radius 
- * @param {float} mapAngle 
- * @param {float} teamGapRatio Ratio difference between team gap and players on the same team Should be 0 to 1.
- * e.g. 0.8 means the ratio team gap:team player gap is 8:2. n.b. < 0.5 means enemies are closer
- * than team members are to each other
- */
-function playerPlacementMultiArcs(playerIDs, center, radius, mapAngle, teamGapFrac) {
-	let playerTeams = playerIDs.map(getPlayerTeam);
-	let uniqueTeams = new Set(playerTeams);
-	let nTeams = uniqueTeams.size;
-	let nPlayers = playerIDs.length;
-
-	g_Map.log("ids: " + playerIDs);
-	g_Map.log("teams: " + Array.from(uniqueTeams));
-	g_Map.log("player teams: " + playerTeams);
-	
-	let teamIntMap = {};
-	let teamFreqPlayers = {};
-	let teamPlayersIntMap = {};
-
-	// Shuffle team order.
-	let teamShuffle = function(length) {
-		let i = 0; 
-		let array = Array.from(Array(length), () => i++);
-			for(let i = array.length - 1; i > 0; i--){
-		  	const j = Math.round(Math.random() * (array.length-1))
-		  	const temp = array[i]
-		  	array[i] = array[j]
-		  	array[j] = temp
-		}
-		return array;
-	}(nTeams);
-
-	// Team to array (random) index map.
-	Array.from(uniqueTeams).map((val, i) => {teamIntMap[val] = teamShuffle[i];});
-	// Player frequency in teams.
-	playerTeams.map((v) => teamFreqPlayers[v] ? teamFreqPlayers[v] += 1 : teamFreqPlayers[v] = 1);
-	// Team player int map. This is useful when positioning players on a team.
-	Array.from(uniqueTeams).map((val) => {teamPlayersIntMap[val] = 0;});
-
-	// I don't know at this point. Trust my brain. It's smarter than my brain.
-	// Something-something add the previous team player combos.
-	// It's some kind of "cumulative frequency" of player teams idk.
-	for (let key in teamPlayersIntMap) {
-		if (teamPlayersIntMap.hasOwnProperty(key)) {
-			for (let key2 in teamPlayersIntMap) {
-				if (teamPlayersIntMap.hasOwnProperty(key)) {
-					if (teamIntMap[key2] > teamIntMap[key]) {
-						teamPlayersIntMap[key2] += teamFreqPlayers[key]-1;
-					}
-				}
-			}
-		}
-	}
-
-	g_Map.log("team int map: " + teamIntMap.toSource());
-	g_Map.log("team player count: " + teamFreqPlayers.toSource());
-	g_Map.log("team players ints: " + teamPlayersIntMap.toSource());
-	// teamGapFrac + teamPlayerGapFrac = 1.
-	const teamPlayerGapFrac = 1 - teamGapFrac;
-
-	const totalGapCount = teamGapFrac*nTeams + teamPlayerGapFrac*(nPlayers-nTeams);
-
-	const teamGapAngle = 2*Math.PI*teamGapFrac/totalGapCount;
-	const teamPlayerGapAngle = 2*Math.PI*teamPlayerGapFrac/totalGapCount;
-	g_Map.log("teamAngle: " + teamGapAngle);
-	g_Map.log("teamGapAngle: " + teamPlayerGapAngle);
-
-	function playerAngle(i) {
-		// let idIndex = playerIDs[i] - 1;
-		g_Map.log("val1: " + teamIntMap[playerTeams[i]]);
-		g_Map.log("val2: " + teamPlayersIntMap[playerTeams[i]]);
-		let angle = mapAngle + teamGapAngle*teamIntMap[playerTeams[i]] + teamPlayerGapAngle*((teamPlayersIntMap[playerTeams[i]]++));
-		g_Map.log("angle: " + angle);
-		return angle;
-	}
-
-	let ans = playerPlacementCustomAngle(
-		radius,
-		center,
-		playerAngle);
-	g_Map.log("ans: " + ans);
-	return ans;
-}
-
 placePlayerBases({
-	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementMultiArcs(
-		playerIDs,
-		mapCenter,
+	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementCustomAngle(
 		fractionToTiles(0.35),
-		0,
-		0.8)],
+		mapCenter,
+		i => startAngle - 1/6 * Math.PI * (1 - (i % (numPlayers/2))) + Math.PI * (i >= numPlayers/2 ? 1: 0 ))],
 	"BaseResourceClass": clBaseResource,
 	// Playerclass marked below
 	"CityPatch": {
