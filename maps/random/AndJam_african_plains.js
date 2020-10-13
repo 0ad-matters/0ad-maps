@@ -1,5 +1,6 @@
 Engine.LoadLibrary("rmgen");
 Engine.LoadLibrary("rmgen-common");
+Engine.LoadLibrary("rmgen-helpers");
 
 var tPrimary = "savanna_grass_a";
 var tForestFloor = "savanna_forestfloor_a";
@@ -60,11 +61,15 @@ var clBaseResource = g_Map.createTileClass();
 var startAngle = randomAngle();
 const mapCenter = g_Map.getCenter();
 
+var [playerIDs, playerPosition] = playerPlacementCircle(fractionToTiles(0.3));
+
 placePlayerBases({
-	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementCustomAngle(
-		fractionToTiles(0.35),
+	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementMultiArcs(
+		playerIDs,
 		mapCenter,
-		i => startAngle - 1/6 * Math.PI * (1 - (i % (numPlayers/2))) + Math.PI * (i >= numPlayers/2 ? 1: 0 ))],
+		fractionToTiles(0.35),
+		0,
+		0.65)],
 	"PlayerTileClass": clPlayer,
 	"BaseResourceClass": clBaseResource,
 	"CityPatch": {
