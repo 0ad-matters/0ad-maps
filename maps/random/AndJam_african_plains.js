@@ -69,7 +69,7 @@ placePlayerBases({
 		mapCenter,
 		fractionToTiles(0.35),
 		0,
-		0.65)],
+		0.75)],
 	"PlayerTileClass": clPlayer,
 	"BaseResourceClass": clBaseResource,
 	"CityPatch": {
