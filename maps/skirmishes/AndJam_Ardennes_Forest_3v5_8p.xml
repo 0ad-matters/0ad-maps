@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="508.487" y="422.697" z="1323.73"/>
-		<Rotation angle="-3.00623"/>
+		<Position x="708.268" y="119.295" z="182.759"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -50,41 +50,137 @@
     {
       "Civ": "athen",
       "Name": "Player 1",
+      "StartingCamera": {
+        "Position": {
+          "x": 1444.71,
+          "y": 50.0715,
+          "z": 1142.72
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 0
     },
     {
       "Civ": "cart",
       "Name": "Player 2",
+      "StartingCamera": {
+        "Position": {
+          "x": 1316.03,
+          "y": 48.6991,
+          "z": 1339.64
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 0
     },
     {
       "Civ": "gaul",
       "Name": "Player 3",
+      "StartingCamera": {
+        "Position": {
+          "x": 1516.84,
+          "y": 49.0556,
+          "z": 880.2
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 0
     },
     {
       "Civ": "iber",
       "Name": "Player 4",
+      "StartingCamera": {
+        "Position": {
+          "x": 520.1,
+          "y": 48.8473,
+          "z": 392.234
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "mace",
       "Name": "Player 5",
+      "StartingCamera": {
+        "Position": {
+          "x": 327.741,
+          "y": 50.6868,
+          "z": 1144.93
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "maur",
       "Name": "Player 6",
+      "StartingCamera": {
+        "Position": {
+          "x": 279.751,
+          "y": 50.8681,
+          "z": 881.078
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "pers",
       "Name": "Player 7",
+      "StartingCamera": {
+        "Position": {
+          "x": 319.77,
+          "y": 50.6319,
+          "z": 639.614
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     },
     {
       "Civ": "rome",
       "Name": "Player 8",
+      "StartingCamera": {
+        "Position": {
+          "x": 708.268,
+          "y": 50.6491,
+          "z": 280.796
+        },
+        "Rotation": {
+          "x": 35,
+          "y": 0,
+          "z": 0
+        }
+      },
       "Team": 1
     }
   ],
