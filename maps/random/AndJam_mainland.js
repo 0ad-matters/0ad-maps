@@ -1,6 +1,7 @@
 Engine.LoadLibrary("rmgen");
 Engine.LoadLibrary("rmgen-common");
 Engine.LoadLibrary("rmbiome");
+Engine.LoadLibrary("rmgen-helpers");
 
 setSelectedBiome();
 
@@ -71,7 +72,12 @@ var playerPosition = playerPlacementArcs(
 	0.75 * Math.PI);
 
 placePlayerBases({
-	"PlayerPlacement": [playerIDs, playerPosition],
+	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementMultiArcs(
+		playerIDs,
+		mapCenter,
+		fractionToTiles(0.35),
+		0,
+		0.75)],
 	"PlayerTileClass": clPlayer,
 	"BaseResourceClass": clBaseResource,
 	"CityPatch": {
