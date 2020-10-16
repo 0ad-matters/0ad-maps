@@ -80,8 +80,9 @@ Copy to:
     Windows: C:\Users\{YourUserName\Documents\My Games\0ad\mods\user\maps\random\
 
 * AndJam_Mainland
-* AndJam_Ardennes Forest
 * AndJam_African Plains
+
+You will also need to copy maps/random/rmgen-helpers to your maps/random directory.
 
 Teammates are placed closely together
 
