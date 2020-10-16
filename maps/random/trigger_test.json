@@ -1,0 +1,15 @@
+{
+	"settings" : {
+		"Name" : "Trigger Test",
+		"Script" : "trigger_test.js",
+		"Description" : "A typical map without any water.",
+		"Preview" : "mainland_temperate.png",
+		"SupportedBiomes": "generic/",
+		"CircularMap" : true,
+		"Keywords": ["trigger"],
+		"TriggerScripts": [
+			"random/MyTrigger.js"
+		],
+		"SupportedTriggerDifficulties": { "Values": ["Easy", "Hard"], "Default": "Easy" }
+	}
+}
