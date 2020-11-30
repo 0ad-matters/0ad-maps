@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1305.38" y="96.8192" z="654.798"/>
+		<Position x="483.577" y="97.9575" z="685.339"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -47,6 +47,7 @@
   "Name": "AndJam Deep Forest 2v4 (6)",
   "Nomad": false,
   "PlayerData": [
+    null,
     {
       "Civ": "athen",
       "Name": "Player 1",
@@ -388,12 +389,6 @@
 			<Player>0</Player>
 			<Position x="1351.02698" z="783.78931"/>
 			<Orientation y="-4.3806"/>
-		</Entity>
-		<Entity uid="190">
-			<Template>gaia/geology_metal_temperate_slabs</Template>
-			<Player>0</Player>
-			<Position x="1174" z="1050"/>
-			<Orientation y="-2.02175"/>
 		</Entity>
 		<Entity uid="191">
 			<Template>gaia/geology_stonemine_temperate_quarry</Template>
@@ -884,7 +879,7 @@
 		<Entity uid="272">
 			<Template>gaia/geology_stonemine_temperate_quarry</Template>
 			<Player>0</Player>
-			<Position x="370" z="426"/>
+			<Position x="370.1688" z="425.86048"/>
 			<Orientation y="1.45746"/>
 		</Entity>
 		<Entity uid="273">
@@ -1124,7 +1119,7 @@
 		<Entity uid="312">
 			<Template>gaia/geology_stone_temperate</Template>
 			<Player>0</Player>
-			<Position x="1256" z="920"/>
+			<Position x="1303.32911" z="955.39802"/>
 			<Orientation y="-3.3951"/>
 		</Entity>
 		<Entity uid="313">
@@ -1193,18 +1188,6 @@
 			<Position x="706" z="1278"/>
 			<Orientation y="4.7392"/>
 		</Entity>
-		<Entity uid="324">
-			<Template>gaia/geology_stone_temperate</Template>
-			<Player>0</Player>
-			<Position x="400" z="1124"/>
-			<Orientation y="-1.39342"/>
-		</Entity>
-		<Entity uid="325">
-			<Template>gaia/geology_metal_temperate_slabs</Template>
-			<Player>0</Player>
-			<Position x="308" z="996"/>
-			<Orientation y="-3.15854"/>
-		</Entity>
 		<Entity uid="326">
 			<Template>gaia/fauna_goat</Template>
 			<Player>0</Player>
@@ -1241,16 +1224,10 @@
 			<Position x="298" z="630"/>
 			<Orientation y="3.36438"/>
 		</Entity>
-		<Entity uid="332">
-			<Template>gaia/geology_metal_temperate_slabs</Template>
-			<Player>0</Player>
-			<Position x="372" z="444"/>
-			<Orientation y="-0.41556"/>
-		</Entity>
 		<Entity uid="333">
 			<Template>gaia/geology_stone_temperate</Template>
 			<Player>0</Player>
-			<Position x="688" z="264"/>
+			<Position x="1020.70734" z="245.79038"/>
 			<Orientation y="-4.48983"/>
 		</Entity>
 		<Entity uid="334">
@@ -53714,6 +53691,90 @@
 			<Position x="308.30704" z="916.2704"/>
 			<Orientation y="2.89376"/>
 			<Actor seed="1573"/>
+		</Entity>
+		<Entity uid="9538">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="1119.74207" z="1266.86487"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9539">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="852.01288" z="1258.22608"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9540">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="880.9853" z="219.70353"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9541">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="431.54175" z="294.21418"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9542">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="177.19391" z="580.02765"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9543">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="378.89634" z="892.19587"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9544">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="1146.22571" z="401.57117"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9546">
+			<Template>gaia/geology_metal_temperate_slabs</Template>
+			<Player>0</Player>
+			<Position x="379.97004" z="634.3711"/>
+			<Orientation y="0.41344"/>
+			<Actor seed="335"/>
+		</Entity>
+		<Entity uid="9547">
+			<Template>gaia/geology_stonemine_temperate_quarry</Template>
+			<Player>0</Player>
+			<Position x="1317.12208" z="543.98646"/>
+			<Orientation y="-1.41193"/>
+			<Actor seed="299"/>
+		</Entity>
+		<Entity uid="9548">
+			<Template>gaia/geology_metal_temperate_slabs</Template>
+			<Player>0</Player>
+			<Position x="1125.40137" z="901.05213"/>
+			<Orientation y="-0.32906"/>
+			<Actor seed="271"/>
+		</Entity>
+		<Entity uid="9549">
+			<Template>gaia/geology_metal_temperate_slabs</Template>
+			<Player>0</Player>
+			<Position x="1014.75678" z="1270.13636"/>
+			<Orientation y="-0.32906"/>
+			<Actor seed="271"/>
+		</Entity>
+		<Entity uid="9550">
+			<Template>gaia/geology_metal_temperate_slabs</Template>
+			<Player>0</Player>
+			<Position x="541.0959" z="1270.42005"/>
+			<Orientation y="-0.32906"/>
+			<Actor seed="271"/>
 		</Entity>
 	</Entities>
 	<Paths/>
