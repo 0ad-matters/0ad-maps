@@ -47,7 +47,6 @@
   "Name": "AndJam Red Sea 2v5 (7)",
   "Nomad": false,
   "PlayerData": [
-    null,
     {
       "Civ": "athen",
       "Name": "Player 1",
@@ -97,7 +96,7 @@
           "z": 0
         }
       },
-      "Team": 0
+      "Team": 1
     },
     {
       "Civ": "iber",
@@ -175,7 +174,7 @@
   "Size": 384,
   "SupportedBiomes": "generic/",
   "VictoryConditions": [
-    "conquest_units"
+    "conquest_structures"
   ],
   "mapType": "random"
 }
