@@ -3,7 +3,7 @@
 <Scenario version="6">
 	<Environment>
 		<SkySet>cumulus</SkySet>
-		<SunColor r="0.729412" g="0.741176" b="0.568627"/>
+		<SunColor r="0.729412" g="0.737255" b="0.564706"/>
 		<SunElevation angle="0.448799"/>
 		<SunRotation angle="-2.82743"/>
 		<TerrainAmbientColor r="0.576471" g="0.439216" b="0.34902"/>
@@ -16,7 +16,7 @@
 		<Water>
 			<WaterBody>
 				<Type>lake</Type>
-				<Color r="0.121569" g="0.168627" b="0.258824"/>
+				<Color r="0.121569" g="0.164706" b="0.258824"/>
 				<Tint r="0.156863" g="0.282353" b="0.34902"/>
 				<Height>19.9</Height>
 				<Waviness>8</Waviness>
@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="522.132" y="237.828" z="890.569"/>
-		<Rotation angle="1.02894"/>
+		<Position x="502.335" y="82.6468" z="628.721"/>
+		<Rotation angle="1.07808"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -44,7 +44,7 @@
   "Description": "A 2v5 map; Historically, the Red Sea was a sea of many nations. Ideally situated for trade with the Far East, it was coveted by all. Although dry, this land is by no means inhospitable, and is amply provided with all resources.",
   "Keywords": [],
   "LockTeams": true,
-  "Name": "AndJam Red Sea 2v5 (7)",
+  "Name": "AndJam Red Sea modified 2v5 (7)",
   "Nomad": false,
   "PlayerData": [
     {
