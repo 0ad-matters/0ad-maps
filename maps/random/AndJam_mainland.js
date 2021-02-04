@@ -56,20 +56,7 @@ var clMetal = g_Map.createTileClass();
 var clFood = g_Map.createTileClass();
 var clBaseResource = g_Map.createTileClass();
 
-var startAngle = randomAngle();
-
-/* Players are placed close together, based on teams.
- *
- * Adapted by player placement code used on the Pyrenean Sierra map
- */
 var playerIDs = sortAllPlayers();
-var playerPosition = playerPlacementArcs(
-	playerIDs,
-	mapCenter,
-	fractionToTiles(0.35),
-	startAngle,
-	0.25 * Math.PI,
-	0.75 * Math.PI);
 
 placePlayerBases({
 	"PlayerPlacement": [sortAllPlayers(), ...playerPlacementMultiArcs(
