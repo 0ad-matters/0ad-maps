@@ -42254,7 +42254,7 @@
 			<Actor seed="45376"/>
 		</Entity>
 		<Entity uid="15713">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="982.66657" z="1014.30011"/>
 			<Orientation y="2.35621"/>

@@ -39038,28 +39038,28 @@
 			<Actor seed="38879"/>
 		</Entity>
 		<Entity uid="12857">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="706.33259" z="1132.41407"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="9141"/>
 		</Entity>
 		<Entity uid="12858">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="703.67847" z="1136.1891"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54315"/>
 		</Entity>
 		<Entity uid="12859">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="706.37085" z="1139.04346"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="33236"/>
 		</Entity>
 		<Entity uid="12860">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="709.21503" z="1135.30079"/>
 			<Orientation y="2.35621"/>
@@ -44960,28 +44960,28 @@
 			<Actor seed="1842"/>
 		</Entity>
 		<Entity uid="13839">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="689.46821" z="1160.36597"/>
 			<Orientation y="1.8041"/>
 			<Actor seed="993"/>
 		</Entity>
 		<Entity uid="13840">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="685.08356" z="1162.06067"/>
 			<Orientation y="1.8041"/>
 			<Actor seed="33236"/>
 		</Entity>
 		<Entity uid="13841">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="684.2884" z="1158.21827"/>
 			<Orientation y="1.8041"/>
 			<Actor seed="54315"/>
 		</Entity>
 		<Entity uid="13842">
-			<Template>other/bench</Template>
+			<Template>structures/bench</Template>
 			<Player>0</Player>
 			<Position x="688.52814" z="1156.39637"/>
 			<Orientation y="1.8041"/>
