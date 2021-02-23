@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="502.335" y="82.6468" z="628.721"/>
-		<Rotation angle="1.07808"/>
+		<Position x="334.006" y="91.7959" z="484.305"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -47,8 +47,6 @@
   "Nomad": false,
   "PlayerData": [
     {
-      "Civ": "athen",
-      "Name": "Player 1",
       "StartingCamera": {
         "Position": {
           "x": 334.006,
@@ -64,8 +62,6 @@
       "Team": 0
     },
     {
-      "Civ": "cart",
-      "Name": "Player 2",
       "StartingCamera": {
         "Position": {
           "x": 271.266,
@@ -81,8 +77,6 @@
       "Team": 0
     },
     {
-      "Civ": "gaul",
-      "Name": "Player 3",
       "StartingCamera": {
         "Position": {
           "x": 798.541,
@@ -98,8 +92,6 @@
       "Team": 1
     },
     {
-      "Civ": "iber",
-      "Name": "Player 4",
       "StartingCamera": {
         "Position": {
           "x": 638.033,
@@ -115,8 +107,6 @@
       "Team": 1
     },
     {
-      "Civ": "mace",
-      "Name": "Player 5",
       "StartingCamera": {
         "Position": {
           "x": 1030.74,
@@ -132,8 +122,6 @@
       "Team": 1
     },
     {
-      "Civ": "maur",
-      "Name": "Player 6",
       "StartingCamera": {
         "Position": {
           "x": 1038.73,
@@ -149,8 +137,6 @@
       "Team": 1
     },
     {
-      "Civ": "pers",
-      "Name": "Player 7",
       "StartingCamera": {
         "Position": {
           "x": 1413.69,

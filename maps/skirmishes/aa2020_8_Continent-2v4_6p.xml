@@ -48,8 +48,6 @@
   "PlayerData": [
     "",
     {
-      "Civ": "athen",
-      "Name": "Player 1",
       "StartingCamera": {
         "Position": {
           "x": 897.327,
@@ -65,8 +63,6 @@
       "Team": 0
     },
     {
-      "Civ": "cart",
-      "Name": "Player 2",
       "StartingCamera": {
         "Position": {
           "x": 1086.88,
@@ -82,8 +78,6 @@
       "Team": 0
     },
     {
-      "Civ": "gaul",
-      "Name": "Player 3",
       "StartingCamera": {
         "Position": {
           "x": 1245.67,
@@ -99,8 +93,6 @@
       "Team": 1
     },
     {
-      "Civ": "iber",
-      "Name": "Player 4",
       "StartingCamera": {
         "Position": {
           "x": 839.986,
@@ -116,8 +108,6 @@
       "Team": 1
     },
     {
-      "Civ": "mace",
-      "Name": "Player 5",
       "StartingCamera": {
         "Position": {
           "x": 986.967,
@@ -133,8 +123,6 @@
       "Team": 1
     },
     {
-      "Civ": "maur",
-      "Name": "Player 6",
       "StartingCamera": {
         "Position": {
           "x": 603.39,
