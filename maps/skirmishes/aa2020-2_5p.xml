@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1078.98" y="175.464" z="830.237"/>
-		<Rotation angle="-2.17925"/>
+		<Position x="420.126" y="92.3811" z="1277.8"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -47,47 +47,18 @@
   "Nomad": false,
   "PlayerData": [
     {
-      "Civ": "athen",
-      "StartingCamera": {
-        "Position": {
-          "x": 420.126,
-          "y": 23,
-          "z": 1376.1
-        },
-        "Rotation": {
-          "x": -145,
-          "y": 38.75,
-          "z": 180
-        }
-      },
       "Team": 0
     },
     {
-      "Civ": "cart",
-      "StartingCamera": {
-        "Position": {
-          "x": 547.198,
-          "y": 23,
-          "z": 1412.1
-        },
-        "Rotation": {
-          "x": 35,
-          "y": 0,
-          "z": 0
-        }
-      },
+      "Team": 0
+    },
+    {
       "Team": 1
     },
     {
-      "Civ": "gaul",
       "Team": 1
     },
     {
-      "Civ": "iber",
-      "Team": 1
-    },
-    {
-      "Civ": "mace",
       "Team": 1
     }
   ],

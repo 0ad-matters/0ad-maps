@@ -46,76 +46,25 @@
   "Name": "aa2020-9-Latium-3v4 (7)",
   "Nomad": false,
   "PlayerData": [
-    null,
     {
-      "Civ": "athen",
-      "Name": "Player 1",
-      "StartingCamera": {
-        "Position": {
-          "x": 1396.94,
-          "y": 36.0435,
-          "z": 407.958
-        },
-        "Rotation": {
-          "x": 35,
-          "y": 0,
-          "z": 0
-        }
-      },
       "Team": 0
     },
     {
-      "Civ": "cart",
-      "Name": "Player 2",
-      "StartingCamera": {
-        "Position": {
-          "x": 1304.55,
-          "y": 30.0166,
-          "z": 266.984
-        },
-        "Rotation": {
-          "x": 35,
-          "y": 0,
-          "z": 0
-        }
-      },
       "Team": 0
     },
     {
-      "Civ": "gaul",
-      "Name": "Player 3",
-      "StartingCamera": {
-        "Position": {
-          "x": 1162.33,
-          "y": 30.4508,
-          "z": 168.111
-        },
-        "Rotation": {
-          "x": 35,
-          "y": -13.9024,
-          "z": 0
-        }
-      },
       "Team": 0
     },
     {
-      "Civ": "iber",
-      "Name": "Player 4",
       "Team": 1
     },
     {
-      "Civ": "mace",
-      "Name": "Player 5",
       "Team": 1
     },
     {
-      "Civ": "maur",
-      "Name": "Player 6",
       "Team": 1
     },
     {
-      "Civ": "pers",
-      "Name": "Player 7",
       "Team": 1
     }
   ],
@@ -32500,35 +32449,35 @@
 			<Actor seed="13476"/>
 		</Entity>
 		<Entity uid="6307">
-			<Template>structures/rome_temple</Template>
+			<Template>structures/rome/temple</Template>
 			<Player>0</Player>
 			<Position x="437.7428" z="781.08191"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="23116"/>
 		</Entity>
 		<Entity uid="6308">
-			<Template>structures/rome_temple</Template>
+			<Template>structures/rome/temple</Template>
 			<Player>0</Player>
 			<Position x="730.07978" z="255.9787"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35812"/>
 		</Entity>
 		<Entity uid="6309">
-			<Template>structures/rome_temple</Template>
+			<Template>structures/rome/temple</Template>
 			<Player>0</Player>
 			<Position x="1428.82886" z="1029.03711"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="61852"/>
 		</Entity>
 		<Entity uid="6310">
-			<Template>structures/rome_temple</Template>
+			<Template>structures/rome/temple</Template>
 			<Player>0</Player>
 			<Position x="1206.29395" z="1138.6969"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26864"/>
 		</Entity>
 		<Entity uid="6311">
-			<Template>structures/rome_temple</Template>
+			<Template>structures/rome/temple</Template>
 			<Player>0</Player>
 			<Position x="814.31153" z="916.91126"/>
 			<Orientation y="2.35621"/>
@@ -35041,1741 +34990,1741 @@
 			<Actor seed="3355"/>
 		</Entity>
 		<Entity uid="6686">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="455.28968" z="794.99823"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6687">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="453.52988" z="792.34498"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6688">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="446.49112" z="804.29755"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6689">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="444.22138" z="802.43067"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6690">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="439.0896" z="812.29969"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6691">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="437.38755" z="809.94294"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6692">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="725.95893" z="241.43827"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6693">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="724.1991" z="238.78501"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6694">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="717.16041" z="250.73758"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6695">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="714.89063" z="248.8707"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6696">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="709.75886" z="258.73972"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6697">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="708.05677" z="256.38297"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6698">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="744.74683" z="264.45112"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6699">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="742.98707" z="261.79786"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6700">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="735.94825" z="273.75043"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6701">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="733.67853" z="271.88355"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6702">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="728.54676" z="281.75257"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6703">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="726.84473" z="279.39582"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6704">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="805.57807" z="907.60615"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6705">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="803.81824" z="904.95289"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6706">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="796.77955" z="916.90546"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6707">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="794.50977" z="915.03858"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6708">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="789.378" z="924.9076"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6709">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="787.67591" z="922.55085"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6710">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="830.37122" z="930.22999"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6711">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="828.61146" z="927.57673"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6712">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="821.57264" z="939.5293"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6713">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="819.30292" z="937.66242"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6714">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="814.17115" z="947.53144"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6715">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="812.46912" z="945.17469"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6716">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1221.12488" z="1148.79981"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6717">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1219.36512" z="1146.14649"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6718">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1212.3263" z="1158.09913"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6719">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1210.05665" z="1156.23218"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6720">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1204.92481" z="1166.10132"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6721">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1203.22278" z="1163.74451"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6722">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1196.6576" z="1126.8224"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6723">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1194.89783" z="1124.1692"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6724">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1187.85901" z="1136.12171"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6725">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1185.58936" z="1134.25489"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6726">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1180.45752" z="1144.12378"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6727">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1178.7555" z="1141.7671"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6728">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1419.38209" z="1016.00672"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6729">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1417.62232" z="1013.35346"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6730">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1410.5835" z="1025.30604"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6731">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1408.31373" z="1023.43915"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6732">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1403.18201" z="1033.30811"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6733">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1401.47999" z="1030.95142"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6734">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1446.2068" z="1034.96949"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6735">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1444.44703" z="1032.31617"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6736">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1437.40821" z="1044.2688"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6737">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1435.13843" z="1042.40186"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6738">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1430.00672" z="1052.271"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6739">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1428.3047" z="1049.91419"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6740">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1109.9928" z="861.40076"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6741">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1108.23304" z="858.7475"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6742">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1101.19422" z="870.70008"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6743">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1098.92457" z="868.8332"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6744">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1093.79273" z="878.70221"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6745">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1092.0907" z="876.34546"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6746">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1104.50818" z="851.84113"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6747">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1102.74842" z="849.18787"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6748">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1095.7096" z="861.14045"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6749">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1093.43995" z="859.27356"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6750">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1088.30811" z="869.14258"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6751">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1086.60608" z="866.78583"/>
 			<Orientation y="2.35622"/>
 		</Entity>
 		<Entity uid="6752">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="414.19172" z="778.2704"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="6753">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="415.89377" z="780.62714"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="6754">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="421.02555" z="770.75812"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="6755">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="423.2953" z="772.625"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="6756">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="430.33405" z="760.67243"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="6757">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="432.09385" z="763.32569"/>
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="6758">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="737.9275" z="224.04697"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6759">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="739.74323" z="228.9899"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6760">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="741.23621" z="233.33072"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6761">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="743.19861" z="237.38547"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6762">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="745.44996" z="241.49305"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6763">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="748.20423" z="244.95371"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6764">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="750.67127" z="249.7595"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6765">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="753.46436" z="252.95505"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6766">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="756.44581" z="248.79358"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6767">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="755.12818" z="245.58854"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6768">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="752.4173" z="242.66471"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6769">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="749.97553" z="239.33622"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6770">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="746.76069" z="235.90622"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6771">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="746.10547" z="231.49616"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6772">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="744.70466" z="229.40708"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6773">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="743.16303" z="227.54923"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6774">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="823.70508" z="881.70105"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6775">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="825.24671" z="883.5589"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6776">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="826.64753" z="885.64795"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6777">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="827.30274" z="890.05805"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6778">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="830.51758" z="893.48804"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6779">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="832.95936" z="896.81653"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6780">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="835.67023" z="899.74036"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6781">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="836.98786" z="902.94544"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6782">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="834.00641" z="907.10688"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6783">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="831.21332" z="903.91138"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6784">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="828.74628" z="899.10553"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6785">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="825.99201" z="895.6449"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6786">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="823.74067" z="891.5373"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6787">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="821.77826" z="887.48255"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6788">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="820.28528" z="883.14173"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6789">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="818.46955" z="878.1988"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6790">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1218.38758" z="1112.95704"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6791">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1219.9292" z="1114.81495"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6792">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1221.33008" z="1116.90394"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6793">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1221.98523" z="1121.31397"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6794">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1225.20008" z="1124.74402"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6795">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1227.64185" z="1128.07251"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6796">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1230.35279" z="1130.99634"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6797">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1231.67042" z="1134.20142"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6798">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1228.68897" z="1138.3628"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6799">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1225.89576" z="1135.16736"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6800">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1223.42872" z="1130.36158"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6801">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1220.67457" z="1126.90088"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6802">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1218.4231" z="1122.79322"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6803">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1216.4607" z="1118.73853"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6804">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1214.96778" z="1114.39771"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6805">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1213.1521" z="1109.45484"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6806">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="449.79865" z="752.76441"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6807">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="451.34028" z="754.62226"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6808">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="452.7411" z="756.71131"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6809">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="453.39631" z="761.1214"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6810">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="456.61115" z="764.5514"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6811">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="459.05292" z="767.87989"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6812">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="461.7638" z="770.80372"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6813">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="463.08143" z="774.0088"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6814">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="460.09998" z="778.17023"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6815">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="457.3069" z="774.97474"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6816">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="454.83985" z="770.16889"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6817">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="452.08558" z="766.70826"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6818">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="449.83423" z="762.60065"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6819">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="447.87183" z="758.5459"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6820">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="446.37885" z="754.20508"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6821">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="444.56312" z="749.26215"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6822">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="714.18793" z="241.44468"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="59229"/>
 		</Entity>
 		<Entity uid="6823">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="421.17515" z="760.16858"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39771"/>
 		</Entity>
 		<Entity uid="6824">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="795.8761" z="900.09504"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="8153"/>
 		</Entity>
 		<Entity uid="6825">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="1405.04456" z="1015.55774"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="57246"/>
 		</Entity>
 		<Entity uid="6826">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="1184.16932" z="1125.59205"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="40503"/>
 		</Entity>
 		<Entity uid="6827">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1440.365" z="996.49482"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6828">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1442.18067" z="1001.43775"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6829">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1443.67371" z="1005.77857"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6830">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1445.63611" z="1009.83332"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6831">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1447.88746" z="1013.94092"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6832">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1450.64173" z="1017.40156"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6833">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1453.10877" z="1022.2074"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6834">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1455.90186" z="1025.40284"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6835">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1458.88331" z="1021.24146"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6836">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1457.56568" z="1018.03638"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6837">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1454.85474" z="1015.11255"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6838">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1452.4131" z="1011.78406"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6839">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1449.19825" z="1008.35407"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6840">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1448.54297" z="1003.94397"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6841">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1447.1421" z="1001.85492"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6842">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1445.6006" z="999.99708"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6843">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="718.47034" z="788.55573"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6844">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="716.71052" z="785.90247"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6845">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="709.67182" z="797.85505"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6846">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="707.40204" z="795.98816"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6847">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="702.27027" z="805.85718"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6848">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="700.56818" z="803.50043"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6849">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="243.75333" z="331.43015"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6850">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="241.9935" z="328.7769"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6851">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="234.95481" z="340.72947"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6852">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="232.68503" z="338.86258"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6853">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="227.55326" z="348.7316"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6854">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="225.85117" z="346.37485"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6855">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1585.70887" z="138.0799"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6856">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1583.94898" z="135.42664"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6857">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1576.91041" z="147.37922"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6858">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1574.64063" z="145.51233"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6859">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1569.5088" z="155.38135"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6860">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1567.80665" z="153.0246"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6867">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1577.48145" z="603.42756"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6868">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1575.72168" z="600.7743"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6869">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1568.68287" z="612.72687"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6870">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1566.4131" z="610.86"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6871">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1561.28138" z="620.72901"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6872">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1559.57935" z="618.37226"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6879">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="229.7056" z="1691.67554"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6880">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="227.94578" z="1689.02222"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6881">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="220.90708" z="1700.97486"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6882">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="218.6373" z="1699.10792"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6883">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="213.50553" z="1708.97706"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6884">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="211.80344" z="1706.62024"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6891">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="219.17063" z="1107.86524"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6892">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="217.4108" z="1105.21192"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6893">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="210.37211" z="1117.16456"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6894">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="208.10233" z="1115.29761"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6895">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="202.97056" z="1125.16675"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6896">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="201.26847" z="1122.80994"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6897">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="218.15586" z="929.04126"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6704"/>
 		</Entity>
 		<Entity uid="6898">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="216.39603" z="926.38801"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6705"/>
 		</Entity>
 		<Entity uid="6899">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="209.35734" z="938.34058"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6706"/>
 		</Entity>
 		<Entity uid="6900">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="207.08756" z="936.4737"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6707"/>
 		</Entity>
 		<Entity uid="6901">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="201.95579" z="946.34272"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6708"/>
 		</Entity>
 		<Entity uid="6902">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="200.2537" z="943.98597"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6709"/>
 		</Entity>
 		<Entity uid="6903">
-			<Template>structures/ptol_lighthouse</Template>
+			<Template>structures/ptol/lighthouse</Template>
 			<Player>0</Player>
 			<Position x="1596.78028" z="916.21473"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="48023"/>
 		</Entity>
 		<Entity uid="6906">
-			<Template>structures/ptol_lighthouse</Template>
+			<Template>structures/ptol/lighthouse</Template>
 			<Player>0</Player>
 			<Position x="188.58878" z="732.16675"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="55433"/>
 		</Entity>
 		<Entity uid="6907">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="215.70127" z="680.75104"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6908">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="217.517" z="685.69397"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6909">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="219.00998" z="690.0348"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6910">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="220.97239" z="694.08954"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6911">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="223.22373" z="698.19715"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6912">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="225.978" z="701.65778"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6913">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="228.44504" z="706.46363"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6914">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="231.23813" z="709.65912"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6915">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="234.21958" z="705.49769"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6916">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="232.90195" z="702.29261"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6917">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="230.19108" z="699.36878"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6918">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="227.7493" z="696.04029"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6919">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="224.53446" z="692.6103"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6920">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="223.87925" z="688.2002"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6921">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="222.47843" z="686.11115"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6922">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="220.9368" z="684.2533"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6923">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="201.4722" z="692.16132"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6756"/>
 		</Entity>
 		<Entity uid="6924">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="203.232" z="694.81458"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6757"/>
 		</Entity>
 		<Entity uid="6925">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="194.43345" z="704.1139"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6755"/>
 		</Entity>
 		<Entity uid="6926">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="192.1637" z="702.24701"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6754"/>
 		</Entity>
 		<Entity uid="6927">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="187.03193" z="712.11603"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6753"/>
 		</Entity>
 		<Entity uid="6928">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="185.32987" z="709.75928"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6752"/>
 		</Entity>
 		<Entity uid="6929">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="208.5257" z="741.43183"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6691"/>
 		</Entity>
 		<Entity uid="6930">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="215.35953" z="733.91956"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6689"/>
 		</Entity>
 		<Entity uid="6931">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="217.62928" z="735.78644"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6688"/>
 		</Entity>
 		<Entity uid="6932">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="224.66803" z="723.83387"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6687"/>
 		</Entity>
 		<Entity uid="6933">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="226.42783" z="726.48713"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6686"/>
 		</Entity>
 		<Entity uid="6934">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="210.22776" z="743.78858"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="6690"/>
 		</Entity>
 		<Entity uid="6935">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="192.3133" z="691.65748"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="39771"/>
 		</Entity>
 		<Entity uid="6936">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1562.38209" z="960.36902"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="2480"/>
 		</Entity>
 		<Entity uid="6937">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1561.76087" z="955.1399"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="48278"/>
 		</Entity>
 		<Entity uid="6938">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1561.31421" z="950.5713"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="54167"/>
 		</Entity>
 		<Entity uid="6939">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1560.34461" z="946.17219"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="12056"/>
 		</Entity>
 		<Entity uid="6940">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1559.10621" z="941.6548"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="36226"/>
 		</Entity>
 		<Entity uid="6941">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1557.22864" z="937.65021"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="23255"/>
 		</Entity>
 		<Entity uid="6942">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1555.94214" z="932.40351"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="50746"/>
 		</Entity>
 		<Entity uid="6943">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1553.96534" z="928.6479"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="46951"/>
 		</Entity>
 		<Entity uid="6944">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1550.10096" z="932.00532"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="26612"/>
 		</Entity>
 		<Entity uid="6945">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1550.64014" z="935.42847"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="5423"/>
 		</Entity>
 		<Entity uid="6946">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1552.59974" z="938.90082"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="49413"/>
 		</Entity>
 		<Entity uid="6947">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1554.20411" z="942.70447"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="35511"/>
 		</Entity>
 		<Entity uid="6948">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1556.53675" z="946.78595"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="42533"/>
 		</Entity>
 		<Entity uid="6949">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1556.15235" z="951.22785"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="57262"/>
 		</Entity>
 		<Entity uid="6950">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1557.03101" z="953.5846"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="63318"/>
 		</Entity>
 		<Entity uid="6951">
-			<Template>units/ptol_infantry_pikeman_b</Template>
+			<Template>units/ptol/infantry_pikeman_b</Template>
 			<Player>0</Player>
 			<Position x="1558.10047" z="955.74909"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="18517"/>
 		</Entity>
 		<Entity uid="6952">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1578.86756" z="952.5658"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6756"/>
 		</Entity>
 		<Entity uid="6953">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1577.77027" z="949.57703"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6757"/>
 		</Entity>
 		<Entity uid="6954">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1588.4839" z="942.56916"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6755"/>
 		</Entity>
 		<Entity uid="6955">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1590.2594" z="944.91114"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6754"/>
 		</Entity>
 		<Entity uid="6956">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1597.53797" z="936.49958"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6753"/>
 		</Entity>
 		<Entity uid="6957">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1598.64783" z="939.18653"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6752"/>
 		</Entity>
 		<Entity uid="6958">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1583.4209" z="903.00171"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6691"/>
 		</Entity>
 		<Entity uid="6959">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1575.0326" z="908.72626"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6689"/>
 		</Entity>
 		<Entity uid="6960">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1573.25721" z="906.38434"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6688"/>
 		</Entity>
 		<Entity uid="6961">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1563.64063" z="916.38099"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6687"/>
 		</Entity>
 		<Entity uid="6962">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1562.54346" z="913.39222"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6686"/>
 		</Entity>
 		<Entity uid="6963">
-			<Template>units/ptol_cavalry_archer_a</Template>
+			<Template>units/ptol/cavalry_archer_a</Template>
 			<Player>0</Player>
 			<Position x="1582.31128" z="900.3147"/>
 			<Orientation y="-1.01919"/>
 			<Actor seed="6690"/>
 		</Entity>
 		<Entity uid="6964">
-			<Template>units/ptol_champion_elephant</Template>
+			<Template>units/ptol/champion_elephant</Template>
 			<Player>0</Player>
 			<Position x="1587.66041" z="955.17786"/>
 			<Orientation y="-1.01919"/>
