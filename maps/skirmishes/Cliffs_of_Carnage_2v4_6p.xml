@@ -32,9 +32,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="971.82" y="234.646" z="1322.8"/>
-		<Rotation angle="3.04761"/>
-		<Declination angle="0.653512"/>
+		<Position x="902.258" y="200.285" z="267.186"/>
+		<Rotation angle="-2.37271"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -36034,7 +36034,7 @@
 		<Entity uid="6390">
 			<Template>gaia/rock/tropical_large</Template>
 			<Player>0</Player>
-			<Position x="643.37049" z="83.34754"/>
+			<Position x="492.44263" z="87.19591"/>
 			<Orientation y="-2.74518"/>
 		</Entity>
 		<Entity uid="6391">
