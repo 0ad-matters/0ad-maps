@@ -40,13 +40,6 @@ Like the above map, but 2v4
 
 Like the above map, but 3v5
 
-### aa2020-4-modified-African_Plains_5p.xml
-
-A 2v3 map
-
-### aa2020-4-modified-African_Plains_6p.xml
-
-A 3v3 map
 
 ### aa2020-5-modified-Corinthian Isthmus_5p.xml
 
