@@ -1,0 +1,14 @@
+{
+	"name": "andjam_maps",
+	"version": "0.25.0",
+	"label": "andjam_maps",
+	"description": "Extra maps",
+	"dependencies": [
+		"0ad<=0.0.25"
+	],
+	"url": "https://github.com/0ad-matters/0ad-maps",
+	"author_name": "Andy Alt",
+	"author_profile": "https://github.com/andy5995",
+	"author_name": "James Sherratt",
+	"author_profile": "https://github.com/Jammyjamjamman"
+}
