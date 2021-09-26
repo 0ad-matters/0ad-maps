@@ -11,12 +11,14 @@ This repository is not endorsed or maintained by anyone from the
 The human players' bases are very close together and the maps may not
 be balanced enough for PVP games.
 
+## Installation
+
+Download the .pyromod file for the [latest
+release](https://github.com/0ad-matters/0ad-maps/releases). The generic
+installation instructions for 0ad mods are on the [0ad
+wiki](https://trac.wildfiregames.com/wiki/Modding_Guide#Howtoinstallmods).
+
 ## 0 A.D. Skirmish maps
-
-Copy to:
-
-    Linux: ~/.local/share/0ad/mods/user/maps/skirmishes
-    Windows: C:\Users\{YourUserName\Documents\My Games\0ad\mods\user\maps\skirmishes\
 
 ### aa2020-1_5p.xml
 
@@ -66,11 +68,6 @@ Like the above, but 3v5
 
 
 ## Random maps
-
-Copy to:
-
-    Linux: ~/.local/share/0ad/mods/user/maps/random
-    Windows: C:\Users\{YourUserName\Documents\My Games\0ad\mods\user\maps\random\
 
 * AndJam_Mainland
 * AndJam_African Plains
