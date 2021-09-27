@@ -1,6 +1,6 @@
 {
 	"name": "andjam_maps",
-	"version": "0.25.0",
+	"version": "0.25.0.999",
 	"label": "andjam_maps",
 	"description": "Extra maps",
 	"dependencies": [
