@@ -47,9 +47,6 @@ Like the above map, but 3v5
 
 A 2v3 map
 
-### aa2020-6-Pyrenean Sierra_6.xml
-
-A 2v4 map
 
 ### aa2020-7-Latium-2v4_6.xml
 
