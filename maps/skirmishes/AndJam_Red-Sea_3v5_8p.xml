@@ -3,20 +3,20 @@
 <Scenario version="7">
 	<Environment>
 		<SkySet>cumulus</SkySet>
-		<SunColor r="0.729412" g="0.745098" b="0.572549"/>
+		<SunColor r="0.729412" g="0.737255" b="0.564706"/>
 		<SunElevation angle="0.448799"/>
 		<SunRotation angle="-2.82743"/>
-		<AmbientColor r="0.568627" g="0.576471" b="0.54902"/>
+		<AmbientColor r="0.564706" g="0.576471" b="0.54902"/>
 		<Fog>
 			<FogFactor>0</FogFactor>
 			<FogThickness>0</FogThickness>
-			<FogColor r="0.686275" g="0.615686" b="0.537255"/>
+			<FogColor r="0.686275" g="0.611765" b="0.537255"/>
 		</Fog>
 		<Water>
 			<WaterBody>
 				<Type>lake</Type>
-				<Color r="0.12549" g="0.172549" b="0.258824"/>
-				<Tint r="0.160784" g="0.282353" b="0.352941"/>
+				<Color r="0.121569" g="0.164706" b="0.258824"/>
+				<Tint r="0.156863" g="0.282353" b="0.34902"/>
 				<Height>19.9</Height>
 				<Waviness>8</Waviness>
 				<Murkiness>0.87</Murkiness>
@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="349.056" y="100.4" z="513.371"/>
+		<Position x="1313.64" y="128.509" z="311.848"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -47,7 +47,6 @@
   "Nomad": false,
   "PlayerData": [
     {
-      "Civ": "athen",
       "Name": "Player 1",
       "StartingCamera": {
         "Position": {
@@ -64,7 +63,6 @@
       "Team": 0
     },
     {
-      "Civ": "cart",
       "Name": "Player 2",
       "StartingCamera": {
         "Position": {
@@ -81,7 +79,6 @@
       "Team": 0
     },
     {
-      "Civ": "gaul",
       "Name": "Player 3",
       "StartingCamera": {
         "Position": {
@@ -98,7 +95,6 @@
       "Team": 0
     },
     {
-      "Civ": "iber",
       "Name": "Player 4",
       "StartingCamera": {
         "Position": {
@@ -115,7 +111,6 @@
       "Team": 1
     },
     {
-      "Civ": "mace",
       "Name": "Player 5",
       "StartingCamera": {
         "Position": {
@@ -132,7 +127,6 @@
       "Team": 1
     },
     {
-      "Civ": "maur",
       "Name": "Player 6",
       "StartingCamera": {
         "Position": {
@@ -149,7 +143,6 @@
       "Team": 1
     },
     {
-      "Civ": "pers",
       "Name": "Player 7",
       "StartingCamera": {
         "Position": {
@@ -166,7 +159,6 @@
       "Team": 1
     },
     {
-      "Civ": "rome",
       "Name": "Player 8",
       "StartingCamera": {
         "Position": {
@@ -23835,12 +23827,6 @@
 			<Player>0</Player>
 			<Position x="1383.67981" z="391.25995"/>
 			<Orientation y="0.3395"/>
-		</Entity>
-		<Entity uid="4106">
-			<Template>gaia/fish/generic</Template>
-			<Player>0</Player>
-			<Position x="1381.93311" z="407.02857"/>
-			<Orientation y="0.77086"/>
 		</Entity>
 		<Entity uid="4107">
 			<Template>gaia/fish/generic</Template>

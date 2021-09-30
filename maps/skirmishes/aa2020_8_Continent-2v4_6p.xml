@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1174.68" y="165.309" z="462.442"/>
-		<Rotation angle="1.88663"/>
+		<Position x="897.327" y="91.8357" z="1406.68"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -46,8 +46,8 @@
   "Name": "aa2020-8-modified-Continent 2v4 (6)",
   "Nomad": false,
   "PlayerData": [
-    "",
     {
+      "Name": "Player 1",
       "StartingCamera": {
         "Position": {
           "x": 897.327,
@@ -63,6 +63,7 @@
       "Team": 0
     },
     {
+      "Name": "Player 2",
       "StartingCamera": {
         "Position": {
           "x": 1086.88,
@@ -78,6 +79,7 @@
       "Team": 0
     },
     {
+      "Name": "Player 3",
       "StartingCamera": {
         "Position": {
           "x": 1245.67,
@@ -93,6 +95,7 @@
       "Team": 1
     },
     {
+      "Name": "Player 4",
       "StartingCamera": {
         "Position": {
           "x": 839.986,
@@ -108,6 +111,7 @@
       "Team": 1
     },
     {
+      "Name": "Player 5",
       "StartingCamera": {
         "Position": {
           "x": 986.967,
@@ -123,6 +127,7 @@
       "Team": 1
     },
     {
+      "Name": "Player 6",
       "StartingCamera": {
         "Position": {
           "x": 603.39,

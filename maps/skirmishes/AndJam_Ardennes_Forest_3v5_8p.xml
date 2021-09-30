@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="708.268" y="119.295" z="182.759"/>
+		<Position x="1444.71" y="118.646" z="1044.42"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -47,7 +47,6 @@
   "Nomad": false,
   "PlayerData": [
     {
-      "Civ": "athen",
       "Name": "Player 1",
       "StartingCamera": {
         "Position": {
@@ -64,7 +63,6 @@
       "Team": 0
     },
     {
-      "Civ": "cart",
       "Name": "Player 2",
       "StartingCamera": {
         "Position": {
@@ -81,7 +79,6 @@
       "Team": 0
     },
     {
-      "Civ": "gaul",
       "Name": "Player 3",
       "StartingCamera": {
         "Position": {
@@ -98,7 +95,6 @@
       "Team": 0
     },
     {
-      "Civ": "iber",
       "Name": "Player 4",
       "StartingCamera": {
         "Position": {
@@ -115,7 +111,6 @@
       "Team": 1
     },
     {
-      "Civ": "mace",
       "Name": "Player 5",
       "StartingCamera": {
         "Position": {
@@ -132,7 +127,6 @@
       "Team": 1
     },
     {
-      "Civ": "maur",
       "Name": "Player 6",
       "StartingCamera": {
         "Position": {
@@ -149,7 +143,6 @@
       "Team": 1
     },
     {
-      "Civ": "pers",
       "Name": "Player 7",
       "StartingCamera": {
         "Position": {
@@ -166,7 +159,6 @@
       "Team": 1
     },
     {
-      "Civ": "rome",
       "Name": "Player 8",
       "StartingCamera": {
         "Position": {
@@ -77309,54 +77301,6 @@
 			<Player>0</Player>
 			<Position x="467.26899" z="1280.93995"/>
 			<Orientation y="-4.40087"/>
-		</Entity>
-		<Entity uid="14683">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="1139.25678" z="1136.9264"/>
-			<Orientation y="1.2494"/>
-		</Entity>
-		<Entity uid="14684">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="1087.64216" z="780.28657"/>
-			<Orientation y="-1.96648"/>
-		</Entity>
-		<Entity uid="14685">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="1626.73194" z="1149.49958"/>
-			<Orientation y="-0.44845"/>
-		</Entity>
-		<Entity uid="14686">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="599.62287" z="212.73877"/>
-			<Orientation y="0.38047"/>
-		</Entity>
-		<Entity uid="14687">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="677.67292" z="310.99097"/>
-			<Orientation y="1.38613"/>
-		</Entity>
-		<Entity uid="14688">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="1259.68903" z="1506.45105"/>
-			<Orientation y="-3.8836"/>
-		</Entity>
-		<Entity uid="14689">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="851.9734" z="582.89832"/>
-			<Orientation y="-3.00054"/>
-		</Entity>
-		<Entity uid="14690">
-			<Template>gaia/fauna_bear</Template>
-			<Player>0</Player>
-			<Position x="530.01435" z="1171.51966"/>
-			<Orientation y="-4.46827"/>
 		</Entity>
 		<Entity uid="14691">
 			<Template>gaia/fruit/berry_01</Template>

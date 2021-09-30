@@ -32,41 +32,37 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="687.336" y="287.558" z="1533.35"/>
-		<Rotation angle="-1.11763"/>
+		<Position x="1906.95" y="507.973" z="-58.0622"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
   "AISeed": 0,
   "CircularMap": true,
-  "Description": "Two Mediterranean land masses connected by a narrow spit of land, called an 'Isthmus'.",
+  "Description": "2v3; Two Mediterranean land masses connected by a narrow spit of land, called an 'Isthmus'.",
   "Keywords": [],
   "LockTeams": true,
   "Name": "aa2020-5-Corinthian Isthmus (5)",
   "PlayerData": [
     {
-      "Civ": "athen",
       "Name": "Player 1",
       "Team": 0
     },
     {
-      "Civ": "cart",
       "Name": "Player 2",
       "Team": 0
     },
     {
-      "Civ": "gaul",
       "Name": "Player 3",
       "Team": 1
     },
     {
-      "Civ": "iber",
       "Name": "Player 4",
       "Team": 1
     },
     {
-      "Civ": "mace",
+      "Name": "Player 5",
       "Team": 1
     }
   ],
@@ -5487,12 +5483,6 @@
 			<Orientation y="-2.22959"/>
 			<Actor seed="14658"/>
 		</Entity>
-		<Entity uid="1674">
-			<Template>structures/ptol_lighthouse</Template>
-			<Player>0</Player>
-			<Position x="1205.32081" z="712.70954"/>
-			<Orientation y="-0.65848"/>
-		</Entity>
 		<Entity uid="1675">
 			<Template>gaia/tree/cretan_date_palm_patch</Template>
 			<Player>0</Player>
@@ -5773,18 +5763,6 @@
 			<Position x="953.79816" z="1818.25977"/>
 			<Orientation y="0.22582"/>
 			<Actor seed="574"/>
-		</Entity>
-		<Entity uid="1835">
-			<Template>structures/athen_field</Template>
-			<Player>0</Player>
-			<Position x="2190.23096" z="1367.9286"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="1836">
-			<Template>structures/athen_field</Template>
-			<Player>0</Player>
-			<Position x="2160.96998" z="1425.52002"/>
-			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="1837">
 			<Template>actor|structures/destruct_hele_dock_rubble.xml</Template>
@@ -6127,27 +6105,6 @@
 			<Orientation y="-2.22231"/>
 			<Actor seed="52"/>
 		</Entity>
-		<Entity uid="2104">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="395.46772" z="2238.0835"/>
-			<Orientation y="-1.53481"/>
-			<Actor seed="50604"/>
-		</Entity>
-		<Entity uid="2105">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="406.31736" z="2227.69361"/>
-			<Orientation y="-0.21187"/>
-			<Actor seed="5476"/>
-		</Entity>
-		<Entity uid="2106">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="391.66675" z="2221.33863"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="65194"/>
-		</Entity>
 		<Entity uid="2107">
 			<Template>actor|props/special/eyecandy/campfire.xml</Template>
 			<Position x="397.5771" z="2226.9734"/>
@@ -6160,173 +6117,12 @@
 			<Orientation y="2.35621"/>
 			<Actor seed="48720"/>
 		</Entity>
-		<Entity uid="2111">
-			<Template>units/mace_infantry_archer_e</Template>
-			<Player>0</Player>
-			<Position x="348.53098" z="2192.51661"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="17320"/>
-		</Entity>
-		<Entity uid="2112">
-			<Template>units/mace_infantry_archer_e</Template>
-			<Player>0</Player>
-			<Position x="350.42914" z="2193.19703"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="33188"/>
-		</Entity>
-		<Entity uid="2113">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="347.07441" z="2190.59473"/>
-			<Orientation y="1.66027"/>
-			<Actor seed="11180"/>
-		</Entity>
-		<Entity uid="2114">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="350.89798" z="2190.6731"/>
-			<Orientation y="-2.91535"/>
-			<Actor seed="8684"/>
-		</Entity>
-		<Entity uid="2115">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="353.40238" z="2192.04664"/>
-			<Orientation y="-2.77202"/>
-			<Actor seed="11150"/>
-		</Entity>
-		<Entity uid="2116">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="394.05301" z="2229.61817"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="38246"/>
-		</Entity>
-		<Entity uid="2117">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="396.93647" z="2230.99122"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="24590"/>
-		</Entity>
-		<Entity uid="2118">
-			<Template>units/spart_infantry_spearman_e</Template>
-			<Player>0</Player>
-			<Position x="397.59272" z="2222.27808"/>
-			<Orientation y="0.80082"/>
-			<Actor seed="50086"/>
-		</Entity>
-		<Entity uid="2119">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="400.05448" z="2222.67164"/>
-			<Orientation y="-0.87656"/>
-			<Actor seed="6418"/>
-		</Entity>
-		<Entity uid="2120">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="437.6652" z="2278.52125"/>
-			<Orientation y="-0.87656"/>
-			<Actor seed="6418"/>
-		</Entity>
-		<Entity uid="2121">
-			<Template>units/spart_infantry_spearman_e</Template>
-			<Player>0</Player>
-			<Position x="435.20344" z="2278.1277"/>
-			<Orientation y="0.80083"/>
-			<Actor seed="50086"/>
-		</Entity>
-		<Entity uid="2122">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="434.54719" z="2286.84083"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="24590"/>
-		</Entity>
-		<Entity uid="2123">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="431.66373" z="2285.46778"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="38246"/>
-		</Entity>
-		<Entity uid="2124">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="429.27747" z="2277.18824"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="65194"/>
-		</Entity>
-		<Entity uid="2125">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="443.92808" z="2283.54322"/>
-			<Orientation y="-0.21187"/>
-			<Actor seed="5476"/>
-		</Entity>
-		<Entity uid="2126">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="433.07844" z="2293.93311"/>
-			<Orientation y="-1.53481"/>
-			<Actor seed="50604"/>
-		</Entity>
 		<Entity uid="2127">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
 			<Position x="424.23484" z="2286.3423"/>
 			<Orientation y="-2.40697"/>
 			<Actor seed="336"/>
-		</Entity>
-		<Entity uid="2128">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="423.21692" z="2299.50025"/>
-			<Orientation y="-0.87656"/>
-			<Actor seed="6418"/>
-		</Entity>
-		<Entity uid="2129">
-			<Template>units/spart_infantry_spearman_e</Template>
-			<Player>0</Player>
-			<Position x="420.75516" z="2299.1067"/>
-			<Orientation y="0.80083"/>
-			<Actor seed="50086"/>
-		</Entity>
-		<Entity uid="2130">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="420.09891" z="2307.81983"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="24590"/>
-		</Entity>
-		<Entity uid="2131">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="417.21546" z="2306.44678"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="38246"/>
-		</Entity>
-		<Entity uid="2132">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="414.8292" z="2298.16724"/>
-			<Orientation y="2.35622"/>
-			<Actor seed="65194"/>
-		</Entity>
-		<Entity uid="2133">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="429.4798" z="2304.52222"/>
-			<Orientation y="-0.21187"/>
-			<Actor seed="5476"/>
-		</Entity>
-		<Entity uid="2134">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="418.63016" z="2314.91211"/>
-			<Orientation y="-1.53481"/>
-			<Actor seed="50604"/>
 		</Entity>
 		<Entity uid="2135">
 			<Template>gaia/tree/carob</Template>
@@ -6349,13 +6145,6 @@
 			<Orientation y="2.35622"/>
 			<Actor seed="337"/>
 		</Entity>
-		<Entity uid="2152">
-			<Template>structures/athen_defense_tower</Template>
-			<Player>0</Player>
-			<Position x="515.25922" z="2238.0376"/>
-			<Orientation y="-0.89434"/>
-			<Actor seed="31710"/>
-		</Entity>
 		<Entity uid="2153">
 			<Template>gaia/treasure/food_barrel</Template>
 			<Player>0</Player>
@@ -6376,48 +6165,6 @@
 			<Position x="519.4856" z="2244.47461"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="62656"/>
-		</Entity>
-		<Entity uid="2156">
-			<Template>structures/palisades_rocks_gate</Template>
-			<Player>0</Player>
-			<Position x="315.06391" z="2227.88306"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="642"/>
-		</Entity>
-		<Entity uid="2157">
-			<Template>structures/palisades_rocks_curve</Template>
-			<Player>0</Player>
-			<Position x="320.50181" z="2237.89795"/>
-			<Orientation y="-0.01615"/>
-			<Actor seed="29114"/>
-		</Entity>
-		<Entity uid="2158">
-			<Template>structures/palisades_rocks_curve</Template>
-			<Player>0</Player>
-			<Position x="303.76871" z="2228.29957"/>
-			<Orientation y="1.7219"/>
-			<Actor seed="47168"/>
-		</Entity>
-		<Entity uid="2159">
-			<Template>structures/palisades_rocks_curve</Template>
-			<Player>0</Player>
-			<Position x="304.25928" z="2222.1084"/>
-			<Orientation y="1.39026"/>
-			<Actor seed="38724"/>
-		</Entity>
-		<Entity uid="2160">
-			<Template>structures/iber_field</Template>
-			<Player>0</Player>
-			<Position x="533.67487" z="2088.52466"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="37470"/>
-		</Entity>
-		<Entity uid="2161">
-			<Template>structures/iber_field</Template>
-			<Player>0</Player>
-			<Position x="620.29603" z="2067.2151"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="43346"/>
 		</Entity>
 		<Entity uid="2164">
 			<Template>gaia/tree/carob</Template>
@@ -7365,19 +7112,6 @@
 			<Position x="2675.20923" z="1499.21717"/>
 			<Orientation y="-1.15172"/>
 		</Entity>
-		<Entity uid="3000">
-			<Template>structures/mace_market</Template>
-			<Player>0</Player>
-			<Position x="2402.27784" z="1851.94617"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3001">
-			<Template>structures/mace_market</Template>
-			<Player>0</Player>
-			<Position x="353.90897" z="2256.04224"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="21858"/>
-		</Entity>
 		<Entity uid="3002">
 			<Template>gaia/treasure/food_barrels_buried</Template>
 			<Player>0</Player>
@@ -7396,206 +7130,17 @@
 			<Position x="2581.49732" z="1828.99146"/>
 			<Orientation y="-1.58581"/>
 		</Entity>
-		<Entity uid="3005">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="2577.97168" z="1861.98304"/>
-			<Orientation y="-0.71364"/>
-		</Entity>
-		<Entity uid="3006">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="2577.75953" z="1846.96241"/>
-			<Orientation y="0.6093"/>
-		</Entity>
-		<Entity uid="3007">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="2563.1255" z="1853.3556"/>
-			<Orientation y="3.17739"/>
-		</Entity>
-		<Entity uid="3008">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="2570.81153" z="1857.2505"/>
-			<Orientation y="3.17739"/>
-		</Entity>
-		<Entity uid="3009">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="2573.7815" z="1856.07557"/>
-			<Orientation y="3.17739"/>
-		</Entity>
-		<Entity uid="3010">
-			<Template>units/spart_infantry_spearman_e</Template>
-			<Player>0</Player>
-			<Position x="2567.85108" z="1849.65821"/>
-			<Orientation y="1.622"/>
-		</Entity>
-		<Entity uid="3011">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="2569.81666" z="1848.12464"/>
-			<Orientation y="-0.0554"/>
-		</Entity>
 		<Entity uid="3012">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
 			<Position x="2560.8794" z="1838.41407"/>
 			<Orientation y="-1.58581"/>
 		</Entity>
-		<Entity uid="3013">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="2572.46119" z="1837.11316"/>
-			<Orientation y="-0.71364"/>
-		</Entity>
-		<Entity uid="3014">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="2572.24903" z="1822.09266"/>
-			<Orientation y="0.6093"/>
-		</Entity>
-		<Entity uid="3015">
-			<Template>structures/rome_tent</Template>
-			<Player>0</Player>
-			<Position x="2557.61524" z="1828.48572"/>
-			<Orientation y="3.17739"/>
-		</Entity>
-		<Entity uid="3016">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="2565.30127" z="1832.38074"/>
-			<Orientation y="3.17739"/>
-		</Entity>
-		<Entity uid="3017">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="2568.27076" z="1831.20582"/>
-			<Orientation y="3.17739"/>
-		</Entity>
-		<Entity uid="3018">
-			<Template>units/spart_infantry_spearman_e</Template>
-			<Player>0</Player>
-			<Position x="2562.34058" z="1824.78858"/>
-			<Orientation y="1.622"/>
-		</Entity>
-		<Entity uid="3019">
-			<Template>units/spart_infantry_spearman_b</Template>
-			<Player>0</Player>
-			<Position x="2564.30591" z="1823.25489"/>
-			<Orientation y="-0.0554"/>
-		</Entity>
 		<Entity uid="3020">
 			<Template>gaia/tree/carob</Template>
 			<Player>0</Player>
 			<Position x="2525.4668" z="1775.78272"/>
 			<Orientation y="2.81063"/>
-		</Entity>
-		<Entity uid="3021">
-			<Template>structures/mace_defense_tower</Template>
-			<Player>0</Player>
-			<Position x="2409.19727" z="1895.438"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3022">
-			<Template>structures/mace_defense_tower</Template>
-			<Player>0</Player>
-			<Position x="2356.47999" z="1848.80945"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3023">
-			<Template>structures/mace_dock</Template>
-			<Player>0</Player>
-			<Position x="2477.5481" z="1850.125"/>
-			<Orientation y="-0.02117"/>
-		</Entity>
-		<Entity uid="3024">
-			<Template>structures/mace_house</Template>
-			<Player>0</Player>
-			<Position x="2450.02149" z="1809.75452"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3025">
-			<Template>structures/mace_house</Template>
-			<Player>0</Player>
-			<Position x="2476.56934" z="1771.76063"/>
-			<Orientation y="3.2445"/>
-		</Entity>
-		<Entity uid="3026">
-			<Template>structures/mace_house</Template>
-			<Player>0</Player>
-			<Position x="2491.00733" z="1809.12977"/>
-			<Orientation y="-2.69687"/>
-		</Entity>
-		<Entity uid="3027">
-			<Template>structures/mace_house</Template>
-			<Player>0</Player>
-			<Position x="2436.50293" z="1780.17334"/>
-			<Orientation y="1.23557"/>
-		</Entity>
-		<Entity uid="3028">
-			<Template>structures/palisades_rocks_long</Template>
-			<Player>0</Player>
-			<Position x="2387.06739" z="1795.83753"/>
-			<Orientation y="0.9729"/>
-			<Obstruction group="3050"/>
-		</Entity>
-		<Entity uid="3030">
-			<Template>structures/palisades_rocks_fort</Template>
-			<Player>0</Player>
-			<Position x="2384.82447" z="1803.42676"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3050"/>
-		</Entity>
-		<Entity uid="3032">
-			<Template>structures/palisades_rocks_curve</Template>
-			<Player>0</Player>
-			<Position x="2427.98096" z="1750.68116"/>
-			<Orientation y="1.99671"/>
-			<Obstruction group="3045"/>
-		</Entity>
-		<Entity uid="3033">
-			<Template>structures/palisades_rocks_curve</Template>
-			<Player>0</Player>
-			<Position x="2453.41163" z="1732.57667"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3047"/>
-		</Entity>
-		<Entity uid="3034">
-			<Template>structures/palisades_rocks_straight</Template>
-			<Player>0</Player>
-			<Position x="2420.00367" z="1756.74146"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3045"/>
-		</Entity>
-		<Entity uid="3035">
-			<Template>structures/palisades_rocks_straight</Template>
-			<Player>0</Player>
-			<Position x="2413.44336" z="1763.48316"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3044"/>
-		</Entity>
-		<Entity uid="3036">
-			<Template>structures/palisades_rocks_straight</Template>
-			<Player>0</Player>
-			<Position x="2406.2981" z="1770.7898"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3044" group2="3043"/>
-		</Entity>
-		<Entity uid="3037">
-			<Template>structures/palisades_rocks_straight</Template>
-			<Player>0</Player>
-			<Position x="2399.22168" z="1777.96827"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3043" group2="3049"/>
-		</Entity>
-		<Entity uid="3038">
-			<Template>structures/palisades_rocks_straight</Template>
-			<Player>0</Player>
-			<Position x="2393.39039" z="1785.88648"/>
-			<Orientation y="2.57348"/>
-			<Obstruction group="3050" group2="3049"/>
 		</Entity>
 		<Entity uid="3041">
 			<Template>actor|props/structures/hellenes/garrisonflag.xml</Template>
@@ -7608,132 +7153,6 @@
 			<Position x="2446.39747" z="1729.62024"/>
 			<Orientation y="-2.3615"/>
 			<Actor seed="18986"/>
-		</Entity>
-		<Entity uid="3043">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2402.54664" z="1775.3069"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3044">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2412.2671" z="1764.39393"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3045">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2433.25147" z="1749.08863"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3046">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2449.88331" z="1737.87415"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3047">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2458.18409" z="1730.00257"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3048">
-			<Template>structures/palisades_rocks_curve</Template>
-			<Player>0</Player>
-			<Position x="2463.26368" z="1726.787"/>
-			<Orientation y="1.86847"/>
-			<Obstruction group="3047" group2="3061"/>
-		</Entity>
-		<Entity uid="3049">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2393.71241" z="1784.97144"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3050">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2387.9297" z="1794.36792"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3051">
-			<Template>structures/palisades_rocks_watchtower</Template>
-			<Player>0</Player>
-			<Position x="2436.73047" z="1759.44166"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3052">
-			<Template>structures/palisades_rocks_watchtower</Template>
-			<Player>0</Player>
-			<Position x="2455.53614" z="1744.08106"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3053">
-			<Template>structures/palisades_rocks_medium</Template>
-			<Player>0</Player>
-			<Position x="2471.01441" z="1730.0918"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3061" group2="3063"/>
-		</Entity>
-		<Entity uid="3055">
-			<Template>structures/palisades_rocks_medium</Template>
-			<Player>0</Player>
-			<Position x="2481.83301" z="1740.42554"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3060" group2="3059"/>
-		</Entity>
-		<Entity uid="3056">
-			<Template>structures/palisades_rocks_medium</Template>
-			<Player>0</Player>
-			<Position x="2489.40284" z="1746.82789"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3060" group2="3059"/>
-		</Entity>
-		<Entity uid="3057">
-			<Template>structures/palisades_rocks_medium</Template>
-			<Player>0</Player>
-			<Position x="2496.73804" z="1751.29822"/>
-			<Orientation y="2.8894"/>
-			<Obstruction group="3058"/>
-		</Entity>
-		<Entity uid="3058">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2492.62647" z="1749.93519"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3059">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2484.81031" z="1743.37208"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3060">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2477.21216" z="1737.01514"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3061">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2467.36548" z="1726.59339"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3062">
-			<Template>structures/palisades_rocks_short</Template>
-			<Player>0</Player>
-			<Position x="2476.22461" z="1735.25306"/>
-			<Orientation y="2.35621"/>
-			<Obstruction group="3060" group2="3063"/>
-		</Entity>
-		<Entity uid="3063">
-			<Template>structures/palisades_rocks_tower</Template>
-			<Player>0</Player>
-			<Position x="2473.4502" z="1733.8534"/>
-			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="3064">
 			<Template>gaia/tree/cretan_date_palm_tall</Template>
@@ -7842,72 +7261,6 @@
 			<Player>0</Player>
 			<Position x="2413.84302" z="1775.75403"/>
 			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3101">
-			<Template>units/mace_infantry_pikeman_e</Template>
-			<Player>0</Player>
-			<Position x="2445.41138" z="1741.36109"/>
-			<Orientation y="-2.62563"/>
-		</Entity>
-		<Entity uid="3102">
-			<Template>units/mace_infantry_pikeman_e</Template>
-			<Player>0</Player>
-			<Position x="2436.42383" z="1746.84925"/>
-			<Orientation y="-2.15307"/>
-		</Entity>
-		<Entity uid="3103">
-			<Template>units/mace_infantry_slinger_e</Template>
-			<Player>0</Player>
-			<Position x="2466.05884" z="1770.63697"/>
-			<Orientation y="-0.49912"/>
-		</Entity>
-		<Entity uid="3104">
-			<Template>units/mace_infantry_slinger_e</Template>
-			<Player>0</Player>
-			<Position x="2448.64673" z="1777.86902"/>
-			<Orientation y="0.62076"/>
-		</Entity>
-		<Entity uid="3105">
-			<Template>units/athen_infantry_spearman_e</Template>
-			<Player>0</Player>
-			<Position x="2469.37623" z="1793.21204"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3106">
-			<Template>units/athen_infantry_marine_archer_e</Template>
-			<Player>0</Player>
-			<Position x="2471.75806" z="1794.8473"/>
-			<Orientation y="2.35621"/>
-		</Entity>
-		<Entity uid="3107">
-			<Template>units/athen_infantry_marine_archer_e</Template>
-			<Player>0</Player>
-			<Position x="2467.57154" z="1796.04798"/>
-			<Orientation y="2.93371"/>
-		</Entity>
-		<Entity uid="3108">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>0</Player>
-			<Position x="2565.52564" z="1839.9745"/>
-			<Orientation y="-0.81911"/>
-		</Entity>
-		<Entity uid="3109">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>0</Player>
-			<Position x="2565.53736" z="1841.68519"/>
-			<Orientation y="1.187"/>
-		</Entity>
-		<Entity uid="3110">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>0</Player>
-			<Position x="2564.3938" z="1842.40894"/>
-			<Orientation y="-2.86724"/>
-		</Entity>
-		<Entity uid="3111">
-			<Template>units/athen_support_female_citizen</Template>
-			<Player>0</Player>
-			<Position x="2563.96534" z="1839.72657"/>
-			<Orientation y="-0.07532"/>
 		</Entity>
 		<Entity uid="3112">
 			<Template>gaia/tree/medit_fan_palm</Template>
@@ -10287,12 +9640,6 @@
 			<Position x="1998.01331" z="1157.1709"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="9728"/>
-		</Entity>
-		<Entity uid="3719">
-			<Template>structures/maur_field</Template>
-			<Player>0</Player>
-			<Position x="2240.93018" z="962.13141"/>
-			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="3728">
 			<Template>gaia/tree/carob</Template>
@@ -59996,13 +59343,6 @@
 			<Position x="1811.90186" z="1145.34412"/>
 			<Orientation y="2.84852"/>
 			<Actor seed="3466"/>
-		</Entity>
-		<Entity uid="12012">
-			<Template>structures/ptol_lighthouse</Template>
-			<Player>0</Player>
-			<Position x="1494.81836" z="1926.35438"/>
-			<Orientation y="-6.17476"/>
-			<Actor seed="1674"/>
 		</Entity>
 		<Entity uid="12013">
 			<Template>actor|props/flora/bush.xml</Template>

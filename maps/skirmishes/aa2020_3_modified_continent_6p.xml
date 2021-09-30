@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1213.28" y="137.557" z="650.972"/>
-		<Rotation angle="-1.80762"/>
+		<Position x="830.025" y="431.341" z="-38.3045"/>
+		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -46,9 +46,8 @@
   "Name": "aa2020-3-modified-Continent 3v3 (6)",
   "Nomad": false,
   "PlayerData": [
-    null,
     {
-      "Civ": "athen",
+      "Name": "Player 1",
       "StartingCamera": {
         "Position": {
           "x": 897.327,
@@ -64,7 +63,7 @@
       "Team": 0
     },
     {
-      "Civ": "cart",
+      "Name": "Player 2",
       "StartingCamera": {
         "Position": {
           "x": 1074.57,
@@ -80,7 +79,7 @@
       "Team": 0
     },
     {
-      "Civ": "gaul",
+      "Name": "Player 3",
       "StartingCamera": {
         "Position": {
           "x": 616.408,
@@ -96,7 +95,7 @@
       "Team": 0
     },
     {
-      "Civ": "iber",
+      "Name": "Player 4",
       "StartingCamera": {
         "Position": {
           "x": 839.986,
@@ -112,7 +111,7 @@
       "Team": 1
     },
     {
-      "Civ": "mace",
+      "Name": "Player 5",
       "StartingCamera": {
         "Position": {
           "x": 986.967,
@@ -128,7 +127,7 @@
       "Team": 1
     },
     {
-      "Civ": "maur",
+      "Name": "Player 6",
       "StartingCamera": {
         "Position": {
           "x": 603.39,
