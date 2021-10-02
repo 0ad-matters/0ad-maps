@@ -41,7 +41,7 @@
   "AISeed": 0,
   "CircularMap": true,
   "Description": "A 3v5 map; All players start on a modified continent surrounded by water, with a large lake in the middle. May not be balanced for PVP games.",
-  "Keywords": [],
+  "Keywords": ["andjam"],
   "LockTeams": true,
   "Name": "aa2020-9-modified-Continent 3v5 (8)",
   "Nomad": false,
@@ -151,7 +151,7 @@
       "Team": 1
     }
   ],
-  "Preview": "continent.png",
+  "Preview": "modified_continent.png",
   "RevealMap": false,
   "Script": "continent.js",
   "Seed": 2849,

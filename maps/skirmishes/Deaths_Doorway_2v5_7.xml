@@ -41,7 +41,7 @@
   "AISeed": 0,
   "CircularMap": false,
   "Description": "A 2v5 map; a typical, rectangular map with a little water.",
-  "Keywords": [],
+  "Keywords": ["andjam"],
   "LockTeams": true,
   "Name": "Death's Doorway 2v5 (7)",
   "Nomad": false,
@@ -68,7 +68,7 @@
       "Team": 1
     }
   ],
-  "Preview": "mainland_temperate.png",
+  "Preview": "deaths_doorway.png",
   "RevealMap": false,
   "Script": "test_mainland.js",
   "Seed": 9310,
