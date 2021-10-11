@@ -41,7 +41,7 @@
   "AISeed": 0,
   "CircularMap": true,
   "Description": "A 3v5 map; Historically, the Red Sea was a sea of many nations. Ideally situated for trade with the Far East, it was coveted by all. Although dry, this land is by no means inhospitable, and is amply provided with all resources.",
-  "Keywords": [],
+  "Keywords": ["andjam"],
   "LockTeams": true,
   "Name": "AndJam Red Sea 3v5 (8)",
   "Nomad": false,

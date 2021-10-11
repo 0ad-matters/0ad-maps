@@ -11,6 +11,9 @@ This repository is not endorsed or maintained by anyone from the
 The human players' bases are very close together and the maps may not
 be balanced enough for PVP games.
 
+The maps can be accessed by using the "andjam" filter at the game setup
+menu.
+
 ## Installation
 
 Download the .pyromod file for the [latest

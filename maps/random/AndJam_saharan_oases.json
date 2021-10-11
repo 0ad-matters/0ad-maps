@@ -4,6 +4,7 @@
 		"Script" : "AndJam_saharan_oases.js",
 		"Description" : "Each players starts near a lush oasis in a large, desolate desert.",
 		"Preview" : "saharan_oases.png",
+		"Keywords": ["andjam"],
 		"CircularMap" : true
 	}
 }

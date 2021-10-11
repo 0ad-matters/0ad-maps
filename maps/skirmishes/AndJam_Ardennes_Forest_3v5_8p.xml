@@ -41,7 +41,7 @@
   "AISeed": 0,
   "CircularMap": true,
   "Description": "A 3v5 map; Each player starts deep in the forest.\n\nThe Ardennes is a region of extensive forests, rolling hills and ridges formed within the Givetian  Ardennes mountain range, primarily in modern day Belgium and Luxembourg. The region took its name from the ancient Silva, a vast forest in Roman times called Arduenna Silva. Teammates are placed closely together",
-  "Keywords": [],
+  "Keywords": ["andjam"],
   "LockTeams": true,
   "Name": "AndJam Ardennes Forest 3v5 (8)",
   "Nomad": false,
