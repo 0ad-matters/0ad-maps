@@ -1,8 +1,8 @@
 # 0ad-maps
 
-These maps are derived from existing skirmish maps or randomly
-generated maps from the [0 A.D. project](https://play0ad.com/). For
-additional information regarding licensing, see the [0 A.D. Project
+These maps are derived from existing skirmish maps from the [0 A.D.
+project](https://play0ad.com/). For additional information regarding
+licensing, see the [0 A.D. Project
 Overview](https://play0ad.com/game-info/project-overview/).
 
 This repository is not endorsed or maintained by anyone from the
@@ -61,18 +61,3 @@ A rectangular 2v5 map with an Autumn biome based on Mainland and Latium
 ### Deaths_Doorway_3v5_8.xml
 
 Like the above, but 3v5
-
-
-
-## Random maps
-
-* AndJam_Mainland
-* AndJam_African Plains
-
-You will also need to copy maps/random/rmgen-helpers to your maps/random directory.
-
-Teammates are placed closely together
-
-* AndJam Mainland (squared)
-
-Teammates placed closely together on a square map

@@ -41,7 +41,7 @@
   "AISeed": 0,
   "CircularMap": true,
   "Description": "A 2v3 map, intended for 2 human players versus the AI. The 2 human players bases are very close together",
-  "Keywords": [],
+  "Keywords": ["andjam"],
   "LockTeams": true,
   "Name": "aa2020-1 2v3 (5)",
   "Nomad": false,
